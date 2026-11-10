@@ -1,0 +1,26 @@
+storm,year,hospital,ccn,matched_name,note
+Ian,2022,Gulf Coast Medical Center (Lee Health),100220,GULF COAST MEDICAL CENTER LEE MEM HEALTH SYSTEM,Fort Myers hospital; AUTO had matched Panama City CCN 100242 via its 2000-2010 name
+Katrina,2005,Children's Hospital New Orleans,193300,CHILDRENS HOSPITAL,"Children's hospital (CCN 33xx, outside acute-care population); AUTO had matched Kindred LTACH 192009"
+Gustav,2008,Children's Hospital New Orleans,193300,CHILDRENS HOSPITAL,same as above
+Harvey,2017,Lyndon B. Johnson Hospital (Harris Health),450289,HARRIS HEALTH SYSTEM,Harris Health operates Ben Taub and LBJ under one CCN; AUTO had matched LBJ Memorial Hospital in Johnson City
+Idalia,2023,Doctors' Memorial Hospital,100106,DOCTOR'S MEMORIAL HOSPITAL INC,Perry (Taylor County) hospital; AUTO had matched Doctors Memorial Bonifay 100078
+Irma,2017,HealthSouth Rehabilitation Hospital (Miami),103038,HEALTHSOUTH REHABILITATION HOSPITAL OF MIAMI,"Rehabilitation hospital (CCN 30xx, outside population); AUTO had matched Largo"
+Katrina,2005,Hancock Medical Center,250045,HANCOCK MEDICAL HOSPITAL,CCN active in 2005 (terminated 2005-12-31); 250162 is the post-Katrina successor certified 2006-11-01
+Katrina,2005,Tulane-Lakeside Hospital,190176,TULANE UNIVERSITY HOSPITAL,Lakeside 190182 terminated 2005-06-30 when HCA folded it into Tulane's certification; event belongs to 190176 (also POST_FSIP)
+Helene,2024,"Asheville Specialty Hospital (LTACH, St. Joseph's campus, HCA Mission Health)",342017,ASHEVILLE SPECIALTY HOSPITAL,LTACH (CCN 20xx in 2018 file); outside population
+Ivan,2004,Jay Hospital,100048,JAY HOSPITAL,"Jay, FL (Santa Rosa County); AUTO had matched 10P007 JAY HOSP Panama City (special provider number)"
+Irene,2011,Vermont State Hospital (state psychiatric hospital - NOT acute care; include/exclude per protocol),474003,VERMONT STATE HOSPITAL,"Psychiatric hospital (CCN 4xxx), decertified 2005; outside population, identity link only"
+Irma,2017,Mercy Hospital,100167,PLANTATION GENERAL HOSPITAL,Mercy Hospital Miami became a campus of HCA Plantation General Hospital after its 2011 sale; own CCN 100061 terminated 2011-05-01
+Irma,2017,Broward Health North,100086,BROWARD HEALTH NORTH,Deerfield Beach hospital with Pompano Beach mailing city
+Florence,2018,Novant Health Brunswick Medical Center,340158,NOVANT HEALTH BRUNSWICK MEDICAL CENTER,"Bolivia, NC; roster city Supply"
+Florence,2018,Tidelands Health Rehabilitation Hospital,,,"Inpatient rehabilitation facility, not in the hospital roster; outside population"
+Florence,2018,Vibra Hospital of Charleston,422005,VIBRA HOSPITAL OF CHARLESTON,LTACH (CCN 20xx) in Mount Pleasant; outside population
+Ida,2021,Lady of the Sea General Hospital,191325,LADY OF THE SEA GENERAL HOSPITAL (CAH),Galliano; roster city Cut Off
+Ian,2022,Sarasota Memorial Hospital - Venice,100087,SARASOTA MEMORIAL HOSPITAL,Venice campus (opened 2021) operates under Sarasota Memorial's certification
+Milton,2024,HCA Florida Largo West Hospital,100248,LARGO MEDICAL CENTER,Former Sun Coast Hospital (CCN 100015 terminated 2008-02-29); operates as a campus of Largo Medical Center
+Harvey,2017,East Houston Regional Medical Center (HCA),450097,BAYSHORE MEDICAL CENTER,Own CCN 450126 retired 2008-08-29; operated as a Bayshore campus through 2017 (original adjudication confirmed)
+Floyd,1999,Rhode Island Hospital,410007,RHODE ISLAND HOSPITAL,Facility corrected from Memorial Hospital of RI on re-review (EC&M account of the Sept 1999 backup-power failure)
+Sandy,2012,Beth Israel Medical Center,330169,BETH ISRAEL MEDICAL CENTER,"Manhattan campus, active 2012 (later Mount Sinai Beth Israel); AUTO had matched legacy record 330906 'BETH ISRAEL MED CTR/ST' (no subtype, outside the acute-care population)"
+Floyd,1999,Bertie Memorial Hospital,341304,BERTIE MEMORIAL HOSPITAL,Critical-access certification 341304 participated from 1999 and is the record open at Floyd (Sept 1999) in the roster open periods; predecessor 340101 terminated on conversion and has no Floyd 1999 pair
+Katrina,2005,University Hospital (Medical Center of Louisiana at New Orleans),190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,"MCLNO University campus shares certification 190005 with Charity; name-only matching can tie with Tulane University Hospital (190176), a different institution"
+Ike,2008,Memorial Hermann Hospital (Texas Medical Center),450068,MEMORIAL HERMANN TEXAS MEDICAL CENTER,"Texas Medical Center campus (ZIP 77030), the same certification as the Allison 2001 and Harvey 2017 events; AUTO had tied with Memorial Hermann Hospital System 450184 (ZIP 77074/77008), a different campus"

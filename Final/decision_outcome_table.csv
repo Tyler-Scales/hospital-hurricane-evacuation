@@ -1,0 +1,215 @@
+storm_date,storm,year,hospital,state,ccn,category,storm_delivered,storm_intensity_kt,closest_approach_nmi,storm_rain_mm,elevation_ft,surge_zone,beds,failure_mechanisms
+1992-08-16,ANDREW,1992,HOMESTEAD HOSPITAL,FL,100125,Failed shelter-in-place,Not determinable (HURDAT2 wind radii begin 2004),145,8.2,176.9,7.6,Cat-3 surge zone,120,Loss of power or generator failure; Loss of water supply
+1992-08-16,ANDREW,1992,LEONARD J CHABERT MEDICAL CENTER,LA,190183,Failed shelter-in-place,Not determinable (HURDAT2 wind radii begin 2004),112,37.8,189.7,3.6,Cat-3 surge zone,106,Structural or wind damage
+1992-08-16,ANDREW,1992,RIVER PARISHES HOSPITAL,LA,190193,Failed shelter-in-place,Not determinable (HURDAT2 wind radii begin 2004),91,57.8,218.7,12.6,Cat-3 surge zone,102,Structural or wind damage
+1992-08-16,ANDREW,1992,BAPTIST HOSPITAL OF MIAMI,FL,100008,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),145,11.7,190.4,5.3,outside surge zone,513,
+1992-08-16,ANDREW,1992,JACKSON MEMORIAL HOSPITAL,FL,100022,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),145,17.8,148.4,10.1,outside surge zone,1250,
+1992-08-16,ANDREW,1992,JACKSON SOUTH COMMUNITY HOSPITAL,FL,100208,Unclear,Not determinable (HURDAT2 wind radii begin 2004),145,7.2,177.9,,outside surge zone,260,
+1998-08-19,BONNIE,1998,NOVANT HEALTH BRUNSWICK MEDICAL CENTER,NC,340158,Failed shelter-in-place,Not determinable (HURDAT2 wind radii begin 2004),96,29.4,198.2,33.1,outside surge zone,49,Structural or wind damage
+1998-09-15,GEORGES,1998,LOWER KEYS MEDICAL CENTER,FL,100150,Evacuated before landfall (full),Not determinable (HURDAT2 wind radii begin 2004),90,10.1,184.8,3.2,Cat-3 surge zone,169,
+1999-09-07,FLOYD,1999,NEW HANOVER REGIONAL MEDICAL CENTER,NC,340141,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),85,14.2,531.7,30.2,outside surge zone,769,
+1999-09-07,FLOYD,1999,RHODE ISLAND HOSPITAL,RI,410007,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),49,35.4,175.1,21.1,Cat-3 surge zone,719,
+1999-09-07,FLOYD,1999,VIDANT BERTIE  HOSPITAL,NC,341304,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),70,18.4,361.0,25.7,outside surge zone,15,
+1999-09-07,FLOYD,1999,VIDANT EDGECOMBE HOSPITAL,NC,340107,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),70,39.2,430.4,68.7,outside surge zone,82,
+1999-09-07,FLOYD,1999,VIDANT MEDICAL CENTER,NC,340040,Sheltered successfully,Not determinable (HURDAT2 wind radii begin 2004),74,24.0,371.7,74.2,outside surge zone,731,
+2004-08-09,CHARLEY,2004,BAYFRONT HEALTH PORT CHARLOTTE,FL,100077,Failed shelter-in-place,Hurricane-force winds,121,1.9,98.2,10.5,Cat-3 surge zone,212,Structural or wind damage
+2004-08-09,CHARLEY,2004,BAYFRONT HEALTH PUNTA GORDA,FL,100047,Failed shelter-in-place,Hurricane-force winds,121,3.3,93.1,3.7,Cat-3 surge zone,208,Loss of power or generator failure; Structural or wind damage
+2004-08-09,CHARLEY,2004,DESOTO MEMORIAL HOSPITAL,FL,100175,Sheltered successfully,Hurricane-force winds,106,8.6,114.9,65.0,outside surge zone,15,
+2004-08-09,CHARLEY,2004,FAWCETT MEMORIAL HOSPITAL,FL,100236,Unclear,Hurricane-force winds,121,1.9,98.2,9.6,Cat-3 surge zone,238,
+2004-08-25,FRANCES,2004,MARTIN MEDICAL CENTER,FL,100044,Evacuated before landfall (partial),Hurricane-force winds,90,2.3,157.6,11.1,outside surge zone,336,
+2004-09-02,IVAN,2004,LOWER KEYS MEDICAL CENTER,FL,100150,Evacuated before landfall (full),No TS-force winds reached the hospital,140,249.5,36.1,3.2,Cat-3 surge zone,167,
+2004-09-02,IVAN,2004,BAPTIST HOSPITAL,FL,100093,Sheltered successfully,Hurricane-force winds,97,32.4,233.7,57.0,outside surge zone,492,
+2004-09-02,IVAN,2004,GULF BREEZE HOSPITAL,FL,100266,Sheltered successfully,Hurricane-force winds,97,36.8,208.4,12.9,outside surge zone,60,
+2004-09-02,IVAN,2004,JAY HOSPITAL,FL,100048,Sheltered successfully,Hurricane-force winds,84,32.2,239.3,260.6,outside surge zone,55,
+2004-09-02,IVAN,2004,SACRED HEART HOSPITAL,FL,100025,Sheltered successfully,Hurricane-force winds,97,33.3,230.6,79.3,outside surge zone,431,
+2004-09-02,IVAN,2004,WEST FLORIDA HOSPITAL,FL,100231,Sheltered successfully,Hurricane-force winds,90,33.0,231.1,107.2,outside surge zone,73,
+2004-09-13,JEANNE,2004,MARTIN MEDICAL CENTER,FL,100044,Evacuated before landfall (partial),Hurricane-force winds,105,2.3,372.4,11.1,outside surge zone,336,
+2005-07-04,DENNIS,2005,BAPTIST HOSPITAL,FL,100093,Sheltered successfully,Hurricane-force winds,98,6.5,129.9,57.0,outside surge zone,492,
+2005-07-04,DENNIS,2005,SACRED HEART HOSPITAL,FL,100025,Sheltered successfully,Hurricane-force winds,98,3.7,151.1,79.3,outside surge zone,431,
+2005-07-04,DENNIS,2005,US NAVAL HOSP,FL,10018F,Sheltered successfully,TS-force winds only,98,10.1,117.6,32.8,outside surge zone,250,
+2005-08-23,KATRINA,2005,ST CHARLES PARISH HOSPITAL,LA,190079,Evacuated before landfall (full),Hurricane-force winds,106,40.5,306.6,4.9,Cat-3 surge zone,56,
+2005-08-23,KATRINA,2005,CHALMETTE MEDICAL CENTER,LA,190185,Failed shelter-in-place,Hurricane-force winds,106,19.5,264.8,-0.9,levee-protected,170,Flooding; Structural or wind damage
+2005-08-23,KATRINA,2005,HANCOCK MEDICAL HOSPITAL,MS,250045,Failed shelter-in-place,Hurricane-force winds,103,13.0,273.7,18.3,Cat-3 surge zone,104,Flooding; Structural or wind damage
+2005-08-23,KATRINA,2005,KENNER REGIONAL MEDICAL CENTER,LA,190206,Failed shelter-in-place,Hurricane-force winds,106,35.3,285.8,-6.4,levee-protected,203,Loss of power or generator failure; Loss of water supply
+2005-08-23,KATRINA,2005,LINDY BOGGS MEDICAL CENTER,LA,190260,Failed shelter-in-place,Hurricane-force winds,106,25.7,330.3,-4.4,levee-protected,172,Flooding; Loss of power or generator failure; Loss of water supply
+2005-08-23,KATRINA,2005,MEADOWCREST HOSPITAL,LA,190152,Failed shelter-in-place,Hurricane-force winds,106,23.5,276.0,-2.1,levee-protected,195,Security
+2005-08-23,KATRINA,2005,METHODIST HOSPITAL,LA,190124,Failed shelter-in-place,Hurricane-force winds,106,19.4,311.3,-7.5,levee-protected,330,Flooding; Loss of power or generator failure
+2005-08-23,KATRINA,2005,OCHSNER BAPTIST MEDICAL CENTER LLC,LA,190135,Failed shelter-in-place,Hurricane-force winds,106,26.5,320.2,-4.8,levee-protected,317,Flooding; Loss of power or generator failure; Loss of water supply; Sewer or cooling failure
+2005-08-23,KATRINA,2005,TOURO INFIRMARY,LA,190046,Failed shelter-in-place,Hurricane-force winds,106,26.1,320.2,2.8,levee-protected,504,Loss of power or generator failure; Loss of water supply; Security
+2005-08-23,KATRINA,2005,TULANE MEDICAL CENTER,LA,190176,Failed shelter-in-place,Hurricane-force winds,106,25.0,330.3,-0.7,levee-protected,362,Flooding; Loss of power or generator failure; Not documented
+2005-08-23,KATRINA,2005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,LA,190005,Failed shelter-in-place,Hurricane-force winds,106,25.2,330.3,-1.8,levee-protected,714,Flooding; Loss of power or generator failure; Loss of water supply
+2005-08-23,KATRINA,2005,VA HOSP,LA,19047F,Failed shelter-in-place,Hurricane-force winds,106,25.1,330.3,-1.6,levee-protected,591,Flooding; Loss of power or generator failure; Loss of water supply; Sewer or cooling failure
+2005-08-23,KATRINA,2005,EAST JEFFERSON GENERAL HOSPITAL,LA,190146,Sheltered successfully,Hurricane-force winds,106,30.2,333.0,-5.6,levee-protected,417,
+2005-08-23,KATRINA,2005,GARDEN PARK MEDICAL CENTER,MS,250123,Sheltered successfully,Hurricane-force winds,95,27.0,249.9,24.3,outside surge zone,121,
+2005-08-23,KATRINA,2005,LAKEVIEW REGIONAL MEDICAL CENTER,LA,190177,Sheltered successfully,Hurricane-force winds,95,26.1,231.3,20.5,outside surge zone,166,
+2005-08-23,KATRINA,2005,MEMORIAL HOSPITAL AT GULFPORT,MS,250019,Sheltered successfully,Hurricane-force winds,103,25.8,198.6,29.0,outside surge zone,445,
+2005-08-23,KATRINA,2005,MERIT HEALTH BILOXI,MS,250007,Sheltered successfully,Hurricane-force winds,103,37.5,198.5,21.5,Cat-3 surge zone,153,
+2005-08-23,KATRINA,2005,OCHSNER MEDICAL CENTER,LA,190036,Sheltered successfully,Hurricane-force winds,106,28.5,339.5,1.4,levee-protected,449,
+2005-08-23,KATRINA,2005,SLIDELL MEMORIAL HOSPITAL,LA,190040,Sheltered successfully,Hurricane-force winds,103,8.9,300.8,9.9,Cat-3 surge zone,182,
+2005-08-23,KATRINA,2005,WEST JEFFERSON MEDICAL CENTER,LA,190039,Sheltered successfully,Hurricane-force winds,106,26.7,280.8,2.9,levee-protected,429,
+2005-08-23,KATRINA,2005,"OCHSNER MEDICAL CENTER - NORTHSHORE, L L C",LA,190204,Unclear,Hurricane-force winds,103,6.5,295.0,,outside surge zone,165,
+2005-09-18,RITA,2005,BAPTIST BEAUMONT HOSPITAL,TX,450346,Evacuated before landfall (full),Hurricane-force winds,81,11.3,204.0,16.3,outside surge zone,279,
+2005-09-18,RITA,2005,MEMORIAL HERMANN BAPTIST ORANGE HOSPITAL,TX,450005,Evacuated before landfall (full),Hurricane-force winds,81,7.9,233.1,11.9,outside surge zone,178,
+2005-09-18,RITA,2005,UNIVERSITY OF TEXAS MEDICAL BRANCH,TX,450018,Evacuated before landfall (full),TS-force winds only,100,60.5,81.2,14.5,Cat-3 surge zone,740,
+2005-09-18,RITA,2005,CHRISTUS SOUTHEAST TEXAS- ST ELIZABETH,TX,450034,Sheltered successfully,Hurricane-force winds,81,11.5,204.0,16.1,outside surge zone,461,
+2005-10-15,WILMA,2005,LOWER KEYS MEDICAL CENTER,FL,100150,Evacuated before landfall (full),Hurricane-force winds,108,63.3,68.4,3.2,Cat-3 surge zone,167,
+2005-10-15,WILMA,2005,WEST BOCA MEDICAL CENTER,FL,100268,Failed shelter-in-place,Hurricane-force winds,97,24.7,50.6,17.4,outside surge zone,185,Loss of power or generator failure; Structural or wind damage
+2008-08-25,GUSTAV,2008,LEONARD J CHABERT MEDICAL CENTER,LA,190183,Evacuated before landfall (full),Hurricane-force winds,88,16.1,168.4,3.6,Cat-3 surge zone,156,
+2008-08-25,GUSTAV,2008,EARL K LONG MEDICAL CENTER,LA,190122,Failed shelter-in-place,TS-force winds only,77,38.1,194.8,56.7,outside surge zone,113,Loss of power or generator failure; Sewer or cooling failure
+2008-08-25,GUSTAV,2008,LANE REGIONAL MEDICAL CENTER,LA,190020,Failed shelter-in-place,TS-force winds only,72,44.0,249.3,94.5,outside surge zone,141,Loss of power or generator failure
+2008-08-25,GUSTAV,2008,WOMANS HOSPITAL,LA,190128,Sheltered successfully,TS-force winds only,81,37.3,140.0,27.5,outside surge zone,225,
+2008-09-01,IKE,2008,UNIVERSITY OF TEXAS MEDICAL BRANCH,TX,450018,Evacuated before landfall (full),Hurricane-force winds,95,4.0,186.8,14.5,Cat-3 surge zone,740,
+2008-09-01,IKE,2008,MAINLAND MEDICAL CENTER,TX,450530,Failed shelter-in-place,Hurricane-force winds,93,11.6,173.6,13.8,levee-protected,110,Loss of water supply
+2008-09-01,IKE,2008,MEMORIAL HERMANN TEXAS MEDICAL CENTER,TX,450068,Sheltered successfully,Hurricane-force winds,89,23.5,323.7,43.1,outside surge zone,908,
+2011-08-21,IRENE,2011,CONEY ISLAND HOSPITAL,NY,330196,Evacuated before landfall (full),TS-force winds only,55,1.8,149.7,8.0,Cat-3 surge zone,371,
+2011-08-21,IRENE,2011,GOOD SAMARITAN HOSPITAL MEDICAL CENTER,NY,330286,Evacuated before landfall (full),TS-force winds only,54,29.3,89.1,10.7,Cat-3 surge zone,437,
+2011-08-21,IRENE,2011,NEW YORK DOWNTOWN HOSPITAL,NY,330064,Evacuated before landfall (full),TS-force winds only,55,6.6,184.8,28.0,outside surge zone,180,
+2011-08-21,IRENE,2011,NYU LANGONE HOSPITALS,NY,330214,Evacuated before landfall (full),TS-force winds only,55,8.6,179.3,17.4,Cat-3 surge zone,1069,
+2011-08-21,IRENE,2011,PENINSULA HOSPITAL CENTER,NY,330002,Evacuated before landfall (full),TS-force winds only,55,9.9,130.8,5.3,Cat-3 surge zone,173,
+2011-08-21,IRENE,2011,SOUTHSIDE HOSPITAL,NY,330043,Evacuated before landfall (full),TS-force winds only,54,30.4,84.7,7.0,Cat-3 surge zone,341,
+2011-08-21,IRENE,2011,ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE,NY,330395,Evacuated before landfall (full),TS-force winds only,55,11.3,127.6,25.2,outside surge zone,257,
+2011-08-21,IRENE,2011,STATEN ISLAND UNIVERSITY HOSPITAL,NY,330160,Evacuated before landfall (full),TS-force winds only,55,4.1,200.2,8.8,Cat-3 surge zone,714,
+2011-08-21,IRENE,2011,VA HOSP,NY,33017F,Evacuated before landfall (full),TS-force winds only,55,8.5,191.5,36.2,outside surge zone,1140,
+2011-08-21,IRENE,2011,ATLANTICARE REGIONAL MEDICAL CENTER - CITY CAMPUS,NJ,310064,Sheltered successfully,Hurricane-force winds,61,10.6,155.8,6.8,Cat-3 surge zone,263,
+2011-08-21,IRENE,2011,BEEBE MEDICAL CENTER,DE,080007,Sheltered successfully,Hurricane-force winds,62,22.6,180.4,16.3,outside surge zone,150,
+2011-08-21,IRENE,2011,BELLEVUE HOSPITAL CENTER,NY,330204,Sheltered successfully,TS-force winds only,55,8.5,179.3,18.4,Cat-3 surge zone,912,
+2011-08-21,IRENE,2011,CARTERET GENERAL HOSPITAL,NC,340142,Sheltered successfully,Hurricane-force winds,75,7.8,257.0,20.9,outside surge zone,117,
+2012-10-21,SANDY,2012,CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER,NJ,310040,Evacuated before landfall (full),Hurricane-force winds,70,77.5,28.2,4.6,Cat-3 surge zone,333,
+2012-10-21,SANDY,2012,NEW YORK DOWNTOWN HOSPITAL,NY,330064,Evacuated before landfall (full),Hurricane-force winds,70,76.1,34.1,28.0,outside surge zone,180,
+2012-10-21,SANDY,2012,VA HOSP,NY,33017F,Evacuated before landfall (full),Hurricane-force winds,70,78.2,30.3,36.2,outside surge zone,1140,
+2012-10-21,SANDY,2012,BELLEVUE HOSPITAL CENTER,NY,330204,Failed shelter-in-place,Hurricane-force winds,70,78.2,32.4,18.4,Cat-3 surge zone,912,Flooding; Fuel supply; Loss of power or generator failure
+2012-10-21,SANDY,2012,CONEY ISLAND HOSPITAL,NY,330196,Failed shelter-in-place,Hurricane-force winds,70,69.7,33.8,8.0,Cat-3 surge zone,371,Flooding; Loss of power or generator failure
+2012-10-21,SANDY,2012,NYU LANGONE HOSPITALS,NY,330214,Failed shelter-in-place,Hurricane-force winds,70,78.4,32.4,17.4,Cat-3 surge zone,1069,Flooding; Fuel supply; Loss of power or generator failure
+2012-10-21,SANDY,2012,PALISADES MEDICAL CENTER,NJ,310003,Failed shelter-in-place,Hurricane-force winds,70,81.1,27.2,8.4,Cat-3 surge zone,202,Flooding; Loss of power or generator failure
+2012-10-21,SANDY,2012,MOUNT SINAI BETH ISRAEL,NY,330169,Sheltered successfully,Hurricane-force winds,70,77.7,30.3,18.9,Cat-3 surge zone,1111,
+2012-10-21,SANDY,2012,SOUTHSIDE HOSPITAL,NY,330043,Sheltered successfully,Hurricane-force winds,70,93.5,40.5,7.0,Cat-3 surge zone,341,
+2012-10-21,SANDY,2012,STATEN ISLAND UNIVERSITY HOSPITAL,NY,330160,Sheltered successfully,Hurricane-force winds,70,67.8,32.5,8.8,Cat-3 surge zone,714,
+2012-10-21,SANDY,2012,LONG BEACH MEDICAL CENTER,NY,330225,Unclear,Hurricane-force winds,70,76.4,34.0,4.8,Cat-3 surge zone,162,
+2016-08-28,HERMINE,2016,REGIONAL MEDICAL CENTER BAYONET POINT,FL,100256,Evacuated before landfall (full),TS-force winds only,70,115.9,325.9,11.2,Cat-3 surge zone,290,
+2016-09-28,MATTHEW,2016,BAPTIST MEDICAL CENTER - BEACHES,FL,100117,Evacuated before landfall (full),TS-force winds only,98,39.2,255.8,14.3,outside surge zone,146,
+2016-09-28,MATTHEW,2016,BAPTIST MEDICAL CENTER - NASSAU,FL,100140,Evacuated before landfall (full),TS-force winds only,96,43.6,274.6,19.9,outside surge zone,62,
+2016-09-28,MATTHEW,2016,BEAUFORT COUNTY MEMORIAL HOSPITAL,SC,420067,Evacuated before landfall (full),Hurricane-force winds,85,21.3,286.4,22.9,outside surge zone,197,
+2016-09-28,MATTHEW,2016,CAPE CANAVERAL HOSPITAL,FL,100177,Evacuated before landfall (full),Hurricane-force winds,107,29.5,113.9,2.1,outside surge zone,150,
+2016-09-28,MATTHEW,2016,FLORIDA HOSPITAL FLAGLER,FL,100118,Evacuated before landfall (full),Hurricane-force winds,100,28.9,173.8,25.4,outside surge zone,99,
+2016-09-28,MATTHEW,2016,FLORIDA HOSPITAL NEW SMYRNA,FL,100014,Evacuated before landfall (full),Hurricane-force winds,103,27.1,147.9,8.4,Cat-3 surge zone,112,
+2016-09-28,MATTHEW,2016,SOUTHEAST GEORGIA HEALTH SYSTEM- BRUNSWICK CAMPUS,GA,110025,Evacuated before landfall (full),TS-force winds only,90,45.5,189.0,13.0,Cat-3 surge zone,300,
+2016-09-28,MATTHEW,2016,SOUTHEAST GEORGIA HEALTH SYSTEM- CAMDEN CAMPUS,GA,110146,Evacuated before landfall (full),TS-force winds only,93,52.6,209.9,24.0,outside surge zone,40,
+2016-09-28,MATTHEW,2016,FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER,FL,100068,Evacuated before landfall (partial),Hurricane-force winds,102,30.4,156.6,26.1,outside surge zone,396,
+2016-09-28,MATTHEW,2016,SOUTHEASTERN REGIONAL MEDICAL CENTER,NC,340050,Failed shelter-in-place,TS-force winds only,70,65.9,328.7,135.0,outside surge zone,314,Loss of power or generator failure; Loss of water supply
+2016-09-28,MATTHEW,2016,MEMORIAL HEALTH UNIVERSITY MEDICAL CENTER,GA,110036,Sheltered successfully,Hurricane-force winds,85,29.0,375.1,21.3,outside surge zone,530,
+2016-09-28,MATTHEW,2016,MUSC MEDICAL CENTER,SC,420004,Sheltered successfully,Hurricane-force winds,78,11.5,233.5,4.4,Cat-3 surge zone,709,
+2017-08-16,HARVEY,2017,CARE REGIONAL MEDICAL CENTER,TX,450605,Evacuated before landfall (full),Hurricane-force winds,112,13.8,203.2,24.2,outside surge zone,75,
+2017-08-16,HARVEY,2017,CHRISTUS SPOHN HOSPITAL CORPUS CHRISTI,TX,450046,Evacuated before landfall (partial),TS-force winds only,108,29.4,117.1,39.6,outside surge zone,1049,
+2017-08-16,HARVEY,2017,MEMORIAL HERMANN SUGAR LAND HOSPITAL,TX,450848,Evacuated before landfall (partial),TS-force winds only,40,69.4,854.4,70.4,outside surge zone,149,
+2017-08-16,HARVEY,2017,BAPTIST BEAUMONT HOSPITAL,TX,450346,Failed shelter-in-place,TS-force winds only,40,35.5,1096.1,16.3,outside surge zone,401,Loss of water supply
+2017-08-16,HARVEY,2017,BAYSHORE MEDICAL CENTER,TX,450097,Failed shelter-in-place,TS-force winds only,42,83.4,1112.4,35.1,outside surge zone,413,Flooding
+2017-08-16,HARVEY,2017,CITIZENS MEDICAL CENTER,TX,450023,Failed shelter-in-place,Hurricane-force winds,35,3.9,361.7,99.0,outside surge zone,265,Loss of power or generator failure; Loss of water supply
+2017-08-16,HARVEY,2017,DETAR HEALTHCARE SYSTEM,TX,450147,Failed shelter-in-place,Hurricane-force winds,35,4.9,375.8,101.2,outside surge zone,304,Loss of power or generator failure; Loss of water supply
+2017-08-16,HARVEY,2017,HARRIS HEALTH SYSTEM,TX,450289,Failed shelter-in-place,TS-force winds only,40,83.0,861.3,43.3,outside surge zone,975,Flooding
+2017-08-16,HARVEY,2017,CHRISTUS SOUTHEAST TEXAS- ST ELIZABETH,TX,450034,Sheltered successfully,TS-force winds only,40,36.3,1096.1,16.1,outside surge zone,553,
+2017-08-16,HARVEY,2017,MEMORIAL HERMANN TEXAS MEDICAL CENTER,TX,450068,Sheltered successfully,TS-force winds only,40,83.2,804.6,43.1,outside surge zone,1034,
+2017-08-16,HARVEY,2017,THE MEDICAL CENTER OF SOUTHEAST TEXAS,TX,450518,Sheltered successfully,TS-force winds only,40,26.7,1162.4,26.3,levee-protected,174,
+2017-08-16,HARVEY,2017,"UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER,THE",TX,450076,Sheltered successfully,TS-force winds only,40,82.7,804.6,38.6,outside surge zone,467,
+2017-08-16,HARVEY,2017,UNIVERSITY OF TEXAS MEDICAL BRANCH,TX,450018,Sheltered successfully,TS-force winds only,45,54.7,748.8,14.5,Cat-3 surge zone,740,
+2017-08-30,IRMA,2017,BAPTIST MEDICAL CENTER - BEACHES,FL,100117,Evacuated before landfall (full),TS-force winds only,50,78.8,224.4,14.3,outside surge zone,146,
+2017-08-30,IRMA,2017,BAPTIST MEDICAL CENTER - NASSAU,FL,100140,Evacuated before landfall (full),TS-force winds only,48,87.0,302.1,19.9,outside surge zone,62,
+2017-08-30,IRMA,2017,CAPE CANAVERAL HOSPITAL,FL,100177,Evacuated before landfall (full),TS-force winds only,68,81.9,301.9,2.1,outside surge zone,150,
+2017-08-30,IRMA,2017,FISHERMEN'S COMMUNITY HOSPITAL,FL,101312,Evacuated before landfall (full),Hurricane-force winds,115,22.1,193.5,5.7,Cat-3 surge zone,25,
+2017-08-30,IRMA,2017,HILTON HEAD REGIONAL MEDICAL CENTER,SC,420080,Evacuated before landfall (full),TS-force winds only,45,163.2,146.6,18.5,outside surge zone,93,
+2017-08-30,IRMA,2017,LOWER KEYS MEDICAL CENTER,FL,100150,Evacuated before landfall (full),Hurricane-force winds,115,14.2,245.5,3.2,Cat-3 surge zone,167,
+2017-08-30,IRMA,2017,MANATEE MEMORIAL HOSPITAL,FL,100035,Evacuated before landfall (full),Hurricane-force winds,70,31.4,138.4,4.1,Cat-3 surge zone,319,
+2017-08-30,IRMA,2017,MARINERS HOSPITAL,FL,101313,Evacuated before landfall (full),Hurricane-force winds,112,56.0,218.7,5.6,Cat-3 surge zone,25,
+2017-08-30,IRMA,2017,MEDICAL CENTER OF TRINITY,FL,100191,Evacuated before landfall (full),Hurricane-force winds,62,24.2,168.6,36.0,outside surge zone,282,
+2017-08-30,IRMA,2017,MORTON PLANT NORTH BAY HOSPITAL,FL,100063,Evacuated before landfall (full),Hurricane-force winds,62,25.3,155.5,13.6,Cat-3 surge zone,226,
+2017-08-30,IRMA,2017,PALMS OF PASADENA HOSPITAL,FL,100126,Evacuated before landfall (full),Hurricane-force winds,68,35.5,127.9,5.1,Cat-3 surge zone,307,
+2017-08-30,IRMA,2017,PLANTATION GENERAL HOSPITAL,FL,100167,Evacuated before landfall (full),TS-force winds only,93,80.7,299.4,6.1,outside surge zone,737,
+2017-08-30,IRMA,2017,TAMPA COMMUNITY HOSPITAL  A CAMPUS OF MEMORIAL HOS,FL,100255,Evacuated before landfall (full),Hurricane-force winds,65,23.2,125.7,7.8,Cat-3 surge zone,201,
+2017-08-30,IRMA,2017,UMHC - BASCOM PALMER EYE INSTITUTE,FL,100240,Evacuated before landfall (full),TS-force winds only,100,80.5,200.9,14.6,outside surge zone,100,
+2017-08-30,IRMA,2017,CANDLER HOSPITAL,GA,110024,Evacuated before landfall (partial),TS-force winds only,45,140.4,143.7,23.2,outside surge zone,320,
+2017-08-30,IRMA,2017,COASTAL CAROLINA HOSPITAL,SC,420101,Evacuated before landfall (partial),TS-force winds only,45,151.2,192.6,25.0,outside surge zone,41,
+2017-08-30,IRMA,2017,MEMORIAL HEALTH UNIVERSITY MEDICAL CENTER,GA,110036,Evacuated before landfall (partial),TS-force winds only,45,140.8,143.7,21.3,outside surge zone,530,
+2017-08-30,IRMA,2017,BROWARD HEALTH NORTH,FL,100086,Sheltered successfully,TS-force winds only,93,85.2,185.1,19.2,outside surge zone,409,
+2017-08-30,IRMA,2017,JACKSON MEMORIAL HOSPITAL,FL,100022,Sheltered successfully,TS-force winds only,100,80.3,200.9,10.1,outside surge zone,2101,
+2017-08-30,IRMA,2017,MEMORIAL REGIONAL HOSPITAL,FL,100038,Sheltered successfully,TS-force winds only,98,82.0,175.8,12.4,outside surge zone,993,
+2017-08-30,IRMA,2017,MOUNT SINAI MEDICAL CENTER,FL,100034,Sheltered successfully,TS-force winds only,100,84.4,187.4,2.2,Cat-3 surge zone,672,
+2017-08-30,IRMA,2017,NAPLES COMMUNITY HOSPITAL,FL,100018,Sheltered successfully,Hurricane-force winds,93,6.1,263.5,7.5,Cat-3 surge zone,716,
+2017-08-30,IRMA,2017,TAMPA GENERAL HOSPITAL,FL,100128,Sheltered successfully,Hurricane-force winds,68,18.2,146.5,8.8,Cat-3 surge zone,1018,
+2018-08-30,FLORENCE,2018,CAPE FEAR VALLEY-BLADEN COUNTY HOSPITAL,NC,341315,Evacuated before landfall (full),TS-force winds only,65,38.8,556.5,120.6,outside surge zone,25,
+2018-08-30,FLORENCE,2018,GRAND STRAND REGIONAL MEDICAL CENTER,SC,420085,Evacuated before landfall (full),Hurricane-force winds,59,7.5,251.1,25.0,outside surge zone,345,
+2018-08-30,FLORENCE,2018,PENDER MEMORIAL HOSPITAL,NC,341307,Evacuated before landfall (full),Hurricane-force winds,80,22.3,607.4,46.9,outside surge zone,25,
+2018-08-30,FLORENCE,2018,TIDELANDS HEALTH,SC,420020,Evacuated before landfall (full),TS-force winds only,55,16.9,338.1,15.1,Cat-3 surge zone,131,
+2018-08-30,FLORENCE,2018,TIDELANDS WACCAMAW COMMUNITY HOSPITAL,SC,420098,Evacuated before landfall (full),TS-force winds only,57,13.3,304.1,19.7,Cat-3 surge zone,167,
+2018-08-30,FLORENCE,2018,NOVANT HEALTH BRUNSWICK MEDICAL CENTER,NC,340158,Evacuated before landfall (partial),Hurricane-force winds,68,1.3,639.4,33.1,outside surge zone,60,
+2018-08-30,FLORENCE,2018,CAROLINA EAST MEDICAL CENTER,NC,340131,Sheltered successfully,Hurricane-force winds,85,55.2,308.1,18.1,outside surge zone,314,
+2018-08-30,FLORENCE,2018,CARTERET GENERAL HOSPITAL,NC,340142,Sheltered successfully,Hurricane-force winds,87,37.0,532.6,20.9,outside surge zone,117,
+2018-08-30,FLORENCE,2018,CONWAY MEDICAL CENTER,SC,420049,Sheltered successfully,Hurricane-force winds,58,2.5,434.2,41.4,outside surge zone,210,
+2018-08-30,FLORENCE,2018,EAST COOPER MEDICAL CENTER,SC,420089,Sheltered successfully,TS-force winds only,49,46.9,28.5,12.5,Cat-3 surge zone,130,
+2018-08-30,FLORENCE,2018,MUSC MEDICAL CENTER,SC,420004,Sheltered successfully,TS-force winds only,48,48.9,32.0,4.4,Cat-3 surge zone,713,
+2018-08-30,FLORENCE,2018,NEW HANOVER REGIONAL MEDICAL CENTER,NC,340141,Sheltered successfully,Hurricane-force winds,80,6.6,658.8,30.2,outside surge zone,769,
+2018-08-30,FLORENCE,2018,ONSLOW MEMORIAL HOSPITAL,NC,340042,Sheltered successfully,Hurricane-force winds,83,33.9,638.2,37.4,outside surge zone,150,
+2018-08-30,FLORENCE,2018,ROPER HOSPITAL,SC,420087,Sheltered successfully,TS-force winds only,48,49.1,32.0,4.0,Cat-3 surge zone,368,
+2018-08-30,FLORENCE,2018,SOUTHEASTERN REGIONAL MEDICAL CENTER,NC,340050,Sheltered successfully,TS-force winds only,61,45.4,557.9,135.0,outside surge zone,314,
+2018-08-30,FLORENCE,2018,MCLEOD LORIS  HOSPITAL,SC,420105,Unclear,Hurricane-force winds,60,10.6,618.7,89.2,outside surge zone,105,
+2018-10-06,MICHAEL,2018,SACRED HEART HOSPITAL ON THE EMERALD COAST,FL,100292,Evacuated before landfall (full),TS-force winds only,139,47.4,70.3,17.2,outside surge zone,58,
+2018-10-06,MICHAEL,2018,SACRED HEART HOSPITAL ON THE GULF,FL,100313,Evacuated before landfall (full),Hurricane-force winds,139,16.7,90.7,12.8,outside surge zone,19,
+2018-10-06,MICHAEL,2018,BAY MEDICAL CENTER SACRED HEART HEALTH SYSTEM,FL,100026,Failed shelter-in-place,Hurricane-force winds,135,13.1,185.9,29.8,outside surge zone,323,Sewer or cooling failure; Structural or wind damage
+2018-10-06,MICHAEL,2018,GULF COAST REGIONAL MEDICAL CENTER,FL,100242,Failed shelter-in-place,Hurricane-force winds,135,13.9,198.5,29.1,outside surge zone,218,Loss of power or generator failure; Loss of water supply; Sewer or cooling failure; Structural or wind damage
+2018-10-06,MICHAEL,2018,CALHOUN-LIBERTY HOSPITAL,FL,101304,Sheltered successfully,Hurricane-force winds,126,10.6,154.5,74.8,outside surge zone,25,
+2018-10-06,MICHAEL,2018,PHOEBE PUTNEY MEMORIAL HOSPITAL,GA,110007,Sheltered successfully,Hurricane-force winds,75,10.0,122.4,195.4,outside surge zone,691,
+2018-10-06,MICHAEL,2018,TIFT REGIONAL MEDICAL CENTER,GA,110095,Sheltered successfully,TS-force winds only,70,40.4,64.0,366.9,outside surge zone,176,
+2018-10-06,MICHAEL,2018,JACKSON HOSPITAL,FL,100142,Unclear,Hurricane-force winds,117,11.8,201.5,166.2,outside surge zone,100,
+2020-08-20,LAURA,2020,CHRISTUS OCHSNER LAKE AREA HOSPITAL,LA,190201,Failed shelter-in-place,Hurricane-force winds,115,5.7,259.4,14.0,outside surge zone,88,Loss of power or generator failure; Loss of water supply
+2020-08-20,LAURA,2020,CHRISTUS OCHSNER ST PATRICK HOSPITAL,LA,190027,Failed shelter-in-place,Hurricane-force winds,115,4.9,273.4,14.5,outside surge zone,230,Loss of power or generator failure; Loss of water supply; Structural or wind damage
+2020-08-20,LAURA,2020,LAKE CHARLES MEMORIAL HOSPITAL,LA,190060,Failed shelter-in-place,Hurricane-force winds,115,6.5,273.4,11.8,outside surge zone,393,Loss of power or generator failure; Loss of water supply
+2020-09-11,SALLY,2020,US NAVAL HOSP,FL,10018F,Sheltered successfully,Hurricane-force winds,85,16.7,512.0,32.8,outside surge zone,250,
+2021-08-26,IDA,2021,ST CHARLES PARISH HOSPITAL,LA,190079,Evacuated before landfall (full),Hurricane-force winds,105,12.0,283.8,4.9,Cat-3 surge zone,59,
+2021-08-26,IDA,2021,LADY OF THE SEA GENERAL HOSPITAL,LA,191325,Failed shelter-in-place,Hurricane-force winds,118,8.3,243.2,0.1,levee-protected,25,Structural or wind damage
+2021-08-26,IDA,2021,LEONARD J CHABERT MEDICAL CENTER,LA,190183,Failed shelter-in-place,Hurricane-force winds,112,10.3,171.5,3.6,Cat-3 surge zone,156,Structural or wind damage
+2021-08-26,IDA,2021,OCHSNER ST ANNE GENERAL HOSPITAL,LA,191324,Failed shelter-in-place,Hurricane-force winds,112,2.7,165.1,8.5,Cat-3 surge zone,35,Flooding; Structural or wind damage
+2021-08-26,IDA,2021,TERREBONNE GENERAL MEDICAL CENTER,LA,190008,Failed shelter-in-place,Hurricane-force winds,112,10.3,171.5,9.7,Cat-3 surge zone,305,Sewer or cooling failure; Structural or wind damage
+2021-08-26,IDA,2021,OCHSNER MEDICAL CENTER,LA,190036,Sheltered successfully,Hurricane-force winds,105,24.0,186.4,1.4,levee-protected,984,
+2021-08-26,IDA,2021,OCHSNER MEDICAL CENTER-KENNER,LA,190274,Sheltered successfully,Hurricane-force winds,105,18.3,235.6,-6.4,levee-protected,110,
+2021-08-26,IDA,2021,THIBODAUX REGIONAL MEDICAL CENTER,LA,190004,Sheltered successfully,Hurricane-force winds,108,12.5,161.1,11.2,Cat-3 surge zone,180,
+2022-09-22,IAN,2022,BAYFRONT HEALTH PUNTA GORDA,FL,100047,Evacuated before landfall (full),Hurricane-force winds,122,6.9,269.2,3.7,Cat-3 surge zone,208,
+2022-09-22,IAN,2022,MEMORIAL HOSPITAL OF TAMPA,FL,100206,Evacuated before landfall (full),TS-force winds only,100,61.0,73.8,17.2,Cat-3 surge zone,183,
+2022-09-22,IAN,2022,PALMS OF PASADENA HOSPITAL,FL,100126,Evacuated before landfall (full),TS-force winds only,100,64.5,98.7,5.1,Cat-3 surge zone,307,
+2022-09-22,IAN,2022,TAMPA COMMUNITY HOSPITAL  A CAMPUS OF MEMORIAL HOS,FL,100255,Evacuated before landfall (full),TS-force winds only,100,67.0,95.7,7.8,Cat-3 surge zone,201,
+2022-09-22,IAN,2022,ENGLEWOOD COMMUNITY HOSPITAL,FL,100267,Failed shelter-in-place,Hurricane-force winds,130,16.5,399.1,7.6,Cat-3 surge zone,100,Loss of power or generator failure; Loss of water supply
+2022-09-22,IAN,2022,FAWCETT MEMORIAL HOSPITAL,FL,100236,Failed shelter-in-place,Hurricane-force winds,122,11.0,366.1,9.6,Cat-3 surge zone,237,Flooding; Structural or wind damage
+2022-09-22,IAN,2022,GULF COAST MEDICAL CENTER LEE MEM HEALTH SYSTEM,FL,100220,Failed shelter-in-place,Hurricane-force winds,127,17.8,173.8,15.8,Cat-3 surge zone,349,Loss of water supply
+2022-09-22,IAN,2022,LEE MEMORIAL HOSPITAL,FL,100012,Failed shelter-in-place,Hurricane-force winds,127,13.7,205.7,13.5,Cat-3 surge zone,783,Flooding; Loss of water supply
+2022-09-22,IAN,2022,BAYFRONT HEALTH PORT CHARLOTTE,FL,100077,Sheltered successfully,Hurricane-force winds,122,11.1,366.1,10.5,Cat-3 surge zone,254,
+2022-09-22,IAN,2022,CAPE CORAL HOSPITAL,FL,100244,Sheltered successfully,Hurricane-force winds,127,10.3,203.7,10.4,Cat-3 surge zone,291,
+2022-09-22,IAN,2022,FLAGLER HOSPITAL,FL,100090,Sheltered successfully,TS-force winds only,65,86.0,221.1,13.1,Cat-3 surge zone,335,
+2022-09-22,IAN,2022,NAPLES COMMUNITY HOSPITAL,FL,100018,Sheltered successfully,Hurricane-force winds,130,39.5,145.7,7.5,Cat-3 surge zone,716,
+2022-09-22,IAN,2022,SARASOTA MEMORIAL HOSPITAL,FL,100087,Sheltered successfully,Hurricane-force winds,115,40.9,219.6,15.4,Cat-3 surge zone,819,
+2022-09-22,IAN,2022,TAMPA GENERAL HOSPITAL,FL,100128,Sheltered successfully,TS-force winds only,100,59.9,83.4,8.8,Cat-3 surge zone,1018,
+2022-11-06,NICOLE,2022,CAPE CANAVERAL HOSPITAL,FL,100177,Sheltered successfully,TS-force winds only,60,37.7,71.7,2.1,outside surge zone,150,
+2023-08-26,IDALIA,2023,DOCTOR'S MEMORIAL HOSPITAL INC,FL,100106,Evacuated before landfall (full),Hurricane-force winds,100,8.5,145.6,40.6,outside surge zone,48,
+2023-08-26,IDALIA,2023,FLORIDA HOSPITAL NORTH PINELLAS,FL,100055,Evacuated before landfall (full),TS-force winds only,112,88.5,70.8,23.0,outside surge zone,168,
+2023-08-26,IDALIA,2023,MEDICAL CENTER OF TRINITY,FL,100191,Evacuated before landfall (full),TS-force winds only,112,91.1,83.3,36.0,outside surge zone,282,
+2023-08-26,IDALIA,2023,PALMS OF PASADENA HOSPITAL,FL,100126,Evacuated before landfall (full),TS-force winds only,102,97.0,56.6,5.1,Cat-3 surge zone,307,
+2023-08-26,IDALIA,2023,TAMPA COMMUNITY HOSPITAL  A CAMPUS OF MEMORIAL HOS,FL,100255,Evacuated before landfall (full),TS-force winds only,108,100.6,98.0,7.8,Cat-3 surge zone,201,
+2023-08-26,IDALIA,2023,TAMPA GENERAL HOSPITAL,FL,100128,Sheltered successfully,TS-force winds only,108,107.7,82.6,8.8,Cat-3 surge zone,1018,
+2024-09-23,HELENE,2024,BAYFRONT HEALTH SEVEN RIVERS,FL,100249,Evacuated before landfall (full),TS-force winds only,120,74.8,75.0,,outside surge zone,128,
+2024-09-23,HELENE,2024,MEMORIAL HOSPITAL OF TAMPA,FL,100206,Evacuated before landfall (full),TS-force winds only,118,105.0,58.5,17.2,Cat-3 surge zone,183,
+2024-09-23,HELENE,2024,PALMS OF PASADENA HOSPITAL,FL,100126,Evacuated before landfall (full),TS-force winds only,118,95.8,42.1,5.1,Cat-3 surge zone,307,
+2024-09-23,HELENE,2024,ST PETERSBURG GENERAL HOSPITAL,FL,100180,Evacuated before landfall (full),TS-force winds only,118,95.3,53.8,15.8,outside surge zone,215,
+2024-09-23,HELENE,2024,TAMPA COMMUNITY HOSPITAL  A CAMPUS OF MEMORIAL HOS,FL,100255,Evacuated before landfall (full),TS-force winds only,118,99.7,50.6,7.8,Cat-3 surge zone,201,
+2024-09-23,HELENE,2024,AU MEDICAL CENTER,GA,110034,Sheltered successfully,TS-force winds only,55,57.4,258.2,153.6,outside surge zone,632,
+2024-09-23,HELENE,2024,"BLUE RIDGE REGIONAL HOSPITAL, INC",NC,341329,Sheltered successfully,TS-force winds only,43,93.5,428.3,2625.6,outside surge zone,85,
+2024-09-23,HELENE,2024,IRWIN COUNTY HOSPITAL,GA,110130,Sheltered successfully,Hurricane-force winds,73,13.9,184.6,353.1,outside surge zone,34,
+2024-09-23,HELENE,2024,MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE,NC,340002,Sheltered successfully,TS-force winds only,43,63.8,353.8,2162.5,outside surge zone,730,
+2024-09-23,HELENE,2024,SOUTH GEORGIA MEDICAL CENTER,GA,110122,Sheltered successfully,Hurricane-force winds,95,11.5,89.8,194.4,outside surge zone,335,
+2024-09-23,HELENE,2024,TAMPA GENERAL HOSPITAL,FL,100128,Sheltered successfully,TS-force winds only,118,106.6,64.7,8.8,Cat-3 surge zone,1018,
+2024-10-04,MILTON,2024,ENGLEWOOD COMMUNITY HOSPITAL,FL,100267,Evacuated before landfall (full),Hurricane-force winds,105,29.0,222.8,7.6,Cat-3 surge zone,100,
+2024-10-04,MILTON,2024,FAWCETT MEMORIAL HOSPITAL,FL,100236,Evacuated before landfall (full),TS-force winds only,97,35.2,143.8,9.6,Cat-3 surge zone,237,
+2024-10-04,MILTON,2024,FLORIDA HOSPITAL NORTH PINELLAS,FL,100055,Evacuated before landfall (full),TS-force winds only,92,42.4,392.9,23.0,outside surge zone,168,
+2024-10-04,MILTON,2024,MORTON PLANT NORTH BAY HOSPITAL,FL,100063,Evacuated before landfall (full),TS-force winds only,92,46.9,251.0,13.6,Cat-3 surge zone,226,
+2024-10-04,MILTON,2024,PALMS OF PASADENA HOSPITAL,FL,100126,Evacuated before landfall (full),Hurricane-force winds,97,22.1,334.9,5.1,Cat-3 surge zone,307,
+2024-10-04,MILTON,2024,TAMPA COMMUNITY HOSPITAL  A CAMPUS OF MEMORIAL HOS,FL,100255,Evacuated before landfall (full),TS-force winds only,92,30.3,429.8,7.8,Cat-3 surge zone,201,
+2024-10-04,MILTON,2024,MANATEE MEMORIAL HOSPITAL,FL,100035,Evacuated before landfall (partial),Hurricane-force winds,97,4.7,249.9,4.1,Cat-3 surge zone,319,
+2024-10-04,MILTON,2024,LARGO MEDICAL CENTER,FL,100248,Failed shelter-in-place,TS-force winds only,97,32.0,347.5,37.5,outside surge zone,425,Flooding; Loss of power or generator failure
+2024-10-04,MILTON,2024,BAYFRONT HEALTH - ST PETERSBURG,FL,100032,Sheltered successfully,Hurricane-force winds,97,19.9,329.0,31.1,outside surge zone,480,
+2024-10-04,MILTON,2024,SARASOTA MEMORIAL HOSPITAL,FL,100087,Sheltered successfully,Hurricane-force winds,97,9.1,239.2,15.4,Cat-3 surge zone,819,
+2024-10-04,MILTON,2024,TAMPA GENERAL HOSPITAL,FL,100128,Sheltered successfully,Hurricane-force winds,92,23.7,349.3,8.8,Cat-3 surge zone,1018,

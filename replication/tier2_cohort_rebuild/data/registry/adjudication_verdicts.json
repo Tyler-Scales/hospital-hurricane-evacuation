@@ -1,0 +1,458 @@
+[
+ {
+  "event_hospital": "Unnamed Houma hospital (infant airlift; possibly Chabert or Terrebonne General)",
+  "storm": "Andrew",
+  "year": 1992,
+  "verdict": "UNSURE",
+  "reasoning": "The event itself is unidentified between two distinct roster facilities (Terrebonne General 190008 vs Chabert/South Louisiana Medical Center 190183), neither of which appears in the candidate list, and archives do not resolve which hospital did the airlift."
+ },
+ {
+  "event_hospital": "Bon Secours-St. Joseph Hospital (renamed Peace River Regional Medical Center in 2005)",
+  "storm": "Charley",
+  "year": 2004,
+  "verdict": "MATCH",
+  "ccn": "100077",
+  "matched_name": "ST JOSEPH HOSPITAL PORT CHARLOTTE",
+  "reasoning": "Roster CCN 100077 is St Joseph Hospital Port Charlotte through 2000 and Peace River Regional Medical Center from the 2005 vintage, exactly matching the event's rename annotation and city."
+ },
+ {
+  "event_hospital": "Naval Hospital Pensacola",
+  "storm": "Dennis",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "10018F",
+  "matched_name": "US NAVAL HOSP",
+  "reasoning": "The federal letter-suffix candidate US NAVAL HOSP Pensacola (10018F) is the same Navy facility; Baptist Hospital Pensacola is a different civilian hospital despite its higher score."
+ },
+ {
+  "event_hospital": "Veterans Affairs Medical Center New Orleans",
+  "storm": "Katrina",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "19047F",
+  "matched_name": "VA HOSP",
+  "reasoning": "Not in the candidate list, but the roster contains federal CCN 19047F 'VA HOSP, NEW ORLEANS' in the 2005 vintage, which is the VA Medical Center on Perdido Street; the university/united candidates are unrelated civilian hospitals."
+ },
+ {
+  "event_hospital": "Ben Taub Hospital (Harris Health)",
+  "storm": "Harvey",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "450289",
+  "matched_name": "HARRIS HEALTH SYSTEM",
+  "reasoning": "Ben Taub Hospital operates under Harris Health System's Medicare CCN 450289 (roster lists it as Harris County Hospital District/Harris Health System, Houston), confirmed by external provider records."
+ },
+ {
+  "event_hospital": "Baptist Medical Center Fernandina Beach",
+  "storm": "Irma",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "100140",
+  "matched_name": "BAPTIST MEDICAL CENTER NASSAU",
+  "reasoning": "Baptist Medical Center Nassau (100140) is Baptist Health's hospital located in Fernandina Beach, the exact event city; the higher-scoring Jacksonville Baptist Medical Center is the flagship campus, not this one."
+ },
+ {
+  "event_hospital": "Carteret Health Care",
+  "storm": "Florence",
+  "year": 2018,
+  "verdict": "MATCH",
+  "ccn": "340142",
+  "matched_name": "CARTERET GENERAL HOSPITAL",
+  "reasoning": "Carteret General Hospital in Morehead City rebranded as Carteret Health Care in 2014, so CCN 340142 in the same city is the same facility."
+ },
+ {
+  "event_hospital": "Golisano Children's Hospital of Southwest Florida (Lee Health)",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100012",
+  "matched_name": "LEE MEMORIAL HOSPITAL",
+  "reasoning": "Golisano Children's has no CCN of its own and operates under Lee Memorial Hospital's Medicare provider number 100012 (verified via provider records), which is in the roster as LEE MEMORIAL HOSPITAL, Fort Myers."
+ },
+ {
+  "event_hospital": "HealthPark Medical Center (Lee Health)",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100012",
+  "matched_name": "LEE MEMORIAL HOSPITAL",
+  "reasoning": "HealthPark Medical Center is licensed under Lee Memorial Hospital's Medicare provider number 100012 (verified via provider records), present in the roster; none of the listed candidates is a Lee Health facility."
+ },
+ {
+  "event_hospital": "ShorePoint Health Punta Gorda",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100047",
+  "matched_name": "BAYFRONT HEALTH PUNTA GORDA",
+  "reasoning": "CHS rebranded Bayfront Health Punta Gorda (formerly Charlotte Regional Medical Center) as ShorePoint Health Punta Gorda in 2021; both candidates carry the same CCN 100047 in the same city."
+ },
+ {
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100126",
+  "matched_name": "PALMS OF PASADENA HOSPITAL",
+  "reasoning": "HCA's 2022 systemwide rebrand renamed Palms of Pasadena Hospital in St. Petersburg to HCA Florida Pasadena Hospital, so CCN 100126 is the same facility."
+ },
+ {
+  "event_hospital": "Wellstar MCG Health / Wellstar Children's Hospital of Georgia",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "110034",
+  "matched_name": "MCG HEALTH, INC",
+  "reasoning": "Wellstar acquired AU Medical Center (Medical College of Georgia/MCG Health, CCN 110034) in 2023 and renamed it Wellstar MCG Health, and Children's Hospital of Georgia operates under the same provider with no separate CCN in the roster."
+ },
+ {
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "storm": "Milton",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100126",
+  "matched_name": "PALMS OF PASADENA HOSPITAL",
+  "reasoning": "Same facility as the Helene row: Palms of Pasadena Hospital (100126) was renamed HCA Florida Pasadena Hospital in HCA's 2022 rebrand."
+ },
+ {
+  "event_hospital": "Jackson Memorial Hospital / Ryder Trauma Center",
+  "storm": "Andrew",
+  "year": 1992,
+  "verdict": "MATCH",
+  "ccn": "100022",
+  "matched_name": "JACKSON MEMORIAL HOSPITAL",
+  "reasoning": "Ryder Trauma Center is a unit on the Jackson Memorial Hospital campus in Miami, which carries CCN 100022 in every roster vintage."
+ },
+ {
+  "event_hospital": "St. Luke's Episcopal Hospital (Texas Medical Center)",
+  "storm": "Allison",
+  "year": 2001,
+  "verdict": "MATCH",
+  "ccn": "450193",
+  "matched_name": "ST LUKES EPISCOPAL HOSPITAL",
+  "reasoning": "Exact name and city match; CCN 450193 is the TMC facility that later became CHI St Luke's Health Baylor College of Medicine Medical Center under the same number."
+ },
+ {
+  "event_hospital": "Baptist Hospital (and Gulf Breeze Hospital), Baptist Health Care",
+  "storm": "Dennis",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "100093",
+  "matched_name": "BAPTIST HOSPITAL PENSACOLA",
+  "reasoning": "The primary named facility is Baptist Hospital Pensacola (CCN 100093); note the bundled Gulf Breeze Hospital is NOT a campus of it but separately certified as CCN 100266, also present in the roster."
+ },
+ {
+  "event_hospital": "Tulane-Lakeside Hospital",
+  "storm": "Katrina",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "190182",
+  "matched_name": "LAKESIDE HOSPITAL",
+  "reasoning": "Tulane-Lakeside is the former Lakeside Hospital in Metairie (roster CCN 190182, terminated 2005-06-30 when HCA folded it into Tulane's number), and the Metairie campus must not be conflated with downtown Tulane Medical Center (190176), which had its own Katrina evacuation."
+ },
+ {
+  "event_hospital": "Medical University of South Carolina (MUSC)",
+  "storm": "Matthew",
+  "year": 2016,
+  "verdict": "MATCH",
+  "ccn": "420004",
+  "matched_name": "MEDICAL UNIVERSITY HOSPITAL",
+  "reasoning": "MUSC's Charleston hospital is CCN 420004, named MUSC MEDICAL CENTER in the 2010-2018 roster vintages; the Columbia 'USC Infirmary' is an unrelated facility."
+ },
+ {
+  "event_hospital": "Texas Children's Hospital",
+  "storm": "Harvey",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "453304",
+  "matched_name": "TEXAS CHILDRENS HOSP",
+  "reasoning": "453304 is the CMS children's-hospital certification (subtype 06, active 1983-present, confirmed current by CMS-derived sources), while 450576 is the pre-1983 acute-care number that appears only in the 1990 roster vintage."
+ },
+ {
+  "event_hospital": "CarolinaEast Medical Center",
+  "storm": "Florence",
+  "year": 2018,
+  "verdict": "MATCH",
+  "ccn": "340131",
+  "matched_name": "CAROLINA EAST MEDICAL CENTER",
+  "reasoning": "CCN 340131 in New Bern is the same facility across renames (Craven County Hospital, Craven Regional Medical Center, CarolinaEast Medical Center)."
+ },
+ {
+  "event_hospital": "Naval Hospital Pensacola",
+  "storm": "Sally",
+  "year": 2020,
+  "verdict": "MATCH",
+  "ccn": "10018F",
+  "matched_name": "US NAVAL HOSP",
+  "reasoning": "The federal letter-suffix roster entry 10018F 'US NAVAL HOSP, PENSACOLA' (is_federal=True) is exactly this Navy facility, and it must not be matched to the civilian Baptist Hospital Pensacola despite the higher fuzzy score."
+ },
+ {
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100255",
+  "matched_name": "TAMPA COMMUNITY HOSPITAL",
+  "reasoning": "HCA Florida West Tampa Hospital (6001 Webb Rd, ZIP 33615) is the renamed Tampa Community Hospital / Town & Country Hospital, which I verified in the roster as CCN 100255 with the same city and ZIP; none of the displayed candidates is this facility."
+ },
+ {
+  "event_hospital": "ShorePoint Health Port Charlotte",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100077",
+  "matched_name": "BAYFRONT HEALTH PORT CHARLOTTE",
+  "reasoning": "Bayfront Health Port Charlotte was rebranded ShorePoint Health Port Charlotte on Nov 30, 2021, continuing the single-CCN chain St Joseph Hospital -> Peace River Regional -> Bayfront -> ShorePoint at CCN 100077."
+ },
+ {
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "storm": "Idalia",
+  "year": 2023,
+  "verdict": "MATCH",
+  "ccn": "100255",
+  "matched_name": "TAMPA COMMUNITY HOSPITAL",
+  "reasoning": "Same facility as the Ian 2022 row: the former Tampa Community Hospital / Town & Country Hospital at 6001 Webb Rd, roster-verified as CCN 100255 in Tampa ZIP 33615."
+ },
+ {
+  "event_hospital": "TGH Crystal River (Tampa General; formerly Bravera Health Seven Rivers)",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100249",
+  "matched_name": "BAYFRONT HEALTH SEVEN RIVERS",
+  "reasoning": "TGH Crystal River is the same Crystal River facility through the rename chain Seven Rivers Community/Regional -> Bayfront Health Seven Rivers -> Bravera Health Seven Rivers -> TGH Crystal River, all under CCN 100249."
+ },
+ {
+  "event_hospital": "HCA Florida Largo West Hospital",
+  "storm": "Milton",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100015",
+  "matched_name": "SUN COAST HOSPITAL",
+  "reasoning": "The event is specifically the Indian Rocks Road campus (2025 Indian Rocks Rd S, ZIP 33774), which is the roster's Sun Coast Hospital CCN 100015 (the number CMS reuses for HCA Florida Largo West today per AHD/PayerPrice), and matching it to 100248 would collide with the registry's separate Milton event for the Largo main campus."
+ },
+ {
+  "event_hospital": "Ben Taub General Hospital",
+  "storm": "Allison",
+  "year": 2001,
+  "verdict": "MATCH",
+  "ccn": "450289",
+  "matched_name": "HARRIS COUNTY HOSPITAL DISTRICT (Harris Health System)",
+  "reasoning": "Ben Taub is Harris Health System's flagship at 1504 Taub Loop and CMS/AHD list it under provider 450289, which is in the roster (active in 2000-2005 vintages) under the district's name; none of the four scored candidates is Ben Taub."
+ },
+ {
+  "event_hospital": "Miami Children's Hospital (now Nicklaus Children's Hospital)",
+  "storm": "Frances",
+  "year": 2004,
+  "verdict": "MATCH",
+  "ccn": "103301",
+  "matched_name": "MIAMI CHILDRENS HOSPITAL",
+  "reasoning": "Both top candidates carry the same CCN 103301 under the pre- and post-2015 names of the same Miami facility, so the rename is already reconciled in the roster."
+ },
+ {
+  "event_hospital": "LifeCare Hospitals of New Orleans - Chalmette campus (37-bed LTACH within Chalmette Medical Center)",
+  "storm": "Katrina",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "192015",
+  "matched_name": "LIFE CARE HOSPITAL OF NEW ORLEANS LLC",
+  "reasoning": "Candidate 193042 terminated 1995-07-31 and was succeeded the next day by LTACH 192015 (subtype 02), whose 2005 roster count of 119 beds equals the 82-bed Memorial campus plus the 37-bed Chalmette satellite, so the Chalmette campus operated under 192015 in 2005."
+ },
+ {
+  "event_hospital": "Manhattan VA Medical Center (VA NY Harbor Healthcare System)",
+  "storm": "Irene",
+  "year": 2011,
+  "verdict": "MATCH",
+  "ccn": "33017F",
+  "matched_name": "VA HOSP (New York, NY 10010)",
+  "reasoning": "Roster CCN 33017F is a federal (F-suffix) VA hospital at zip 10010, the Manhattan VA's address at 423 E 23rd St (the Brooklyn campus is separately 33020F), and it is not Manhattan Psychiatric Center, a state psychiatric hospital at zip 10035."
+ },
+ {
+  "event_hospital": "Driscoll Children's Hospital",
+  "storm": "Harvey",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "453301",
+  "matched_name": "DRISCOLL CHILDRENS HOSPITAL",
+  "reasoning": "453301 is the children's-hospital CCN active in every roster vintage 1995-2018, while 450553 is the predecessor number for the same facility that last appears in the 1990 vintage."
+ },
+ {
+  "event_hospital": "Florida Hospital (Adventist) \u2014 Ormond Beach, New Smyrna Beach and Apopka campuses",
+  "storm": "Irma",
+  "year": 2017,
+  "verdict": "UNSURE",
+  "reasoning": "This row bundles three distinct providers that cannot share one CCN: New Smyrna = 100014 (Florida Hospital New Smyrna, ex-Bert Fish), Ormond Beach = Florida Hospital Oceanside, a satellite of Florida Hospital Memorial Medical Center (100068, Daytona Beach) that transferred its 31 Irma patients there and was demolished in 2019, and Apopka was a campus of Florida Hospital/AdventHealth Orlando (100007) \u2014 while candidate 100169 terminated 2000-09-06 and was not an active provider in 2017; the row should be split into three events before linking."
+ },
+ {
+  "event_hospital": "McLeod Health Seacoast",
+  "storm": "Florence",
+  "year": 2018,
+  "verdict": "MATCH",
+  "ccn": "420105",
+  "matched_name": "MCLEOD LORIS SEACOAST HOSPITAL",
+  "reasoning": "CMS lists McLeod Loris Seacoast under provider 420105 with its address at 4000 Highway 9 East, Little River, SC \u2014 the Seacoast campus shares one certification with McLeod Loris, so the Little River facility is candidate 420105 despite the Loris city field."
+ },
+ {
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100126",
+  "matched_name": "PALMS OF PASADENA HOSPITAL",
+  "reasoning": "HCA Florida Pasadena Hospital is the 2021 HCA rebrand of Palms of Pasadena Hospital at 1501 Pasadena Ave S, St. Petersburg, and AHD/CMS confirm it kept CCN 100126 (its merger into HCA Florida St. Petersburg came later, in August 2025)."
+ },
+ {
+  "event_hospital": "NCH Baker Hospital Downtown / NCH North Naples Hospital (NCH Healthcare System)",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100018",
+  "matched_name": "NAPLES COMMUNITY HOSPITAL INC",
+  "reasoning": "NCH Baker Downtown and NCH North Naples are two campuses on a single Medicare certification, CCN 100018, whose combined 716-bed capacity exactly matches the roster's 2015/2018 bed count for 100018, so one candidate covers both named campuses."
+ },
+ {
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "storm": "Idalia",
+  "year": 2023,
+  "verdict": "MATCH",
+  "ccn": "100126",
+  "matched_name": "PALMS OF PASADENA HOSPITAL",
+  "reasoning": "Same facility as the Ian 2022 row: HCA Florida Pasadena is the renamed Palms of Pasadena Hospital and still operated under CCN 100126 at Idalia in August 2023, before its August 2025 consolidation."
+ },
+ {
+  "event_hospital": "HCA Florida South Tampa Hospital",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100206",
+  "matched_name": "MEMORIAL HOSPITAL OF TAMPA",
+  "reasoning": "HCA Florida South Tampa Hospital (2901 Swann Ave) is the 2021 rebrand of Memorial Hospital of Tampa \u2014 US News and CMS pages for the facility still carry the Memorial Hospital of Tampa identity \u2014 matching candidate CCN 100206, not Florida Hospital Tampa (AdventHealth) or Tampa General."
+ },
+ {
+  "event_hospital": "Sycamore Shoals Hospital (Ballad Health)",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "NO_MATCH",
+  "reasoning": "The roster contains zero Tennessee providers (grep for ',TN,' returns nothing \u2014 coverage is coastal Atlantic/Gulf states), so this real Ballad Health hospital in Elizabethton, TN, hit by Helene's inland flooding, is genuinely outside the roster."
+ },
+ {
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "storm": "Milton",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100255",
+  "matched_name": "TAMPA COMMUNITY HOSPITAL (ex-Town & Country Hospital)",
+  "reasoning": "HCA Florida West Tampa Hospital at 6001 Webb Rd is the former Tampa Community Hospital (originally Town & Country Hospital), which AHD lists under CCN 100255 \u2014 a CCN present in the roster through the 2018 vintage \u2014 while none of the scored candidates (Florida Hospital Tampa, the 1988-terminated West Shore Hospital, Tampa General) is this facility."
+ },
+ {
+  "event_hospital": "Memorial Hermann Hospital and Memorial Hermann Children's Hospital (Texas Medical Center)",
+  "storm": "Allison",
+  "year": 2001,
+  "verdict": "MATCH",
+  "ccn": "450068",
+  "matched_name": "MEMORIAL HERMANN HOSPITAL",
+  "reasoning": "CCN 450068 is the Texas Medical Center campus (zip 77030, Hermann Hospital -> Memorial Hermann Texas Medical Center) and Children's Memorial Hermann shares that campus/CCN, while 450184 (zip 77074/77008) is the system entity, not TMC."
+ },
+ {
+  "event_hospital": "Miami Children's Hospital (now Nicklaus Children's Hospital)",
+  "storm": "Jeanne",
+  "year": 2004,
+  "verdict": "MATCH",
+  "ccn": "103301",
+  "matched_name": "MIAMI CHILDRENS HOSPITAL",
+  "reasoning": "Both the old name (Miami Children's) and new name (Nicklaus Children's) appear in the roster under the same CCN 103301 in Miami, confirming a simple rename."
+ },
+ {
+  "event_hospital": "LifeCare Hospitals of New Orleans - Memorial campus (82-bed LTACH, 7th floor of Memorial Medical Center)",
+  "storm": "Katrina",
+  "year": 2005,
+  "verdict": "MATCH",
+  "ccn": "192015",
+  "matched_name": "LIFE CARE HOSPITAL OF NEW ORLEANS LLC",
+  "reasoning": "Roster CCN 192015 (LTCH range, active in the 2005 vintage, city New Orleans, zip 70115 = 2700 Napoleon Ave, the 7th floor of Memorial Medical Center) is the Memorial campus, whereas candidate 193042 is the Chalmette rehab-range CCN terminated with code 07."
+ },
+ {
+  "event_hospital": "Manhattan VA Medical Center (VA NY Harbor Healthcare System)",
+  "storm": "Sandy",
+  "year": 2012,
+  "verdict": "MATCH",
+  "ccn": "33017F",
+  "matched_name": "VA HOSP",
+  "reasoning": "Roster federal entry 33017F 'VA HOSP, NEW YORK' has zip 10010, the exact zip of the Manhattan VA at 423 E 23rd St (Brooklyn VA is separately 33020F), and it is not the Manhattan Psychiatric Center trap."
+ },
+ {
+  "event_hospital": "MD Anderson Cancer Center",
+  "storm": "Harvey",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "450076",
+  "matched_name": "UNIV OF TX M D ANDERSON CANCER CTR,THE",
+  "reasoning": "CCN 450076 in Houston carries both the historical (M D Anderson Hosp + Tumor Inst) and current UT MD Anderson names for the same facility."
+ },
+ {
+  "event_hospital": "NCH Baker Hospital Downtown (Naples Community Hospital)",
+  "storm": "Irma",
+  "year": 2017,
+  "verdict": "MATCH",
+  "ccn": "100018",
+  "matched_name": "NAPLES COMMUNITY HOSPITAL INC",
+  "reasoning": "NCH Baker Hospital Downtown is the renamed downtown campus of Naples Community Hospital (roster 100018, Naples zip 34102), while the higher-scoring 'Baker Community Hospital' is in Baker County (MacClenny), an unrelated facility."
+ },
+ {
+  "event_hospital": "Tidelands Health Rehabilitation Hospital",
+  "storm": "Florence",
+  "year": 2018,
+  "verdict": "NO_MATCH",
+  "reasoning": "It is an Encompass/Tidelands IRF hospital-within-hospital with its own CCN 423033 (opened 2018 inside Tidelands Waccamaw Community Hospital) and 423033 is absent from the roster, whose SC rehab series ends at 423032 in the 2018 vintage."
+ },
+ {
+  "event_hospital": "HCA Florida South Tampa Hospital",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "MATCH",
+  "ccn": "100206",
+  "matched_name": "MEMORIAL HOSPITAL OF TAMPA",
+  "reasoning": "HCA Florida South Tampa Hospital is the renamed Memorial Hospital of Tampa at 2901 W Swann Ave (roster 100206, zip 33609), confirmed by CMS's own page mapping the two names."
+ },
+ {
+  "event_hospital": "Sarasota Memorial Hospital - Venice",
+  "storm": "Ian",
+  "year": 2022,
+  "verdict": "NO_MATCH",
+  "reasoning": "SMH-Venice opened in November 2021 with its own CCN 100359, which is absent from the 2018-vintage roster; candidate 100070 is the unrelated Venice Hospital/Venice Regional and 100087 is the Sarasota campus, not this one."
+ },
+ {
+  "event_hospital": "HCA Florida Trinity West Hospital",
+  "storm": "Idalia",
+  "year": 2023,
+  "verdict": "MATCH",
+  "ccn": "100191",
+  "matched_name": "MEDICAL CENTER OF TRINITY",
+  "reasoning": "Trinity West at 5637 Marine Pkwy, New Port Richey is the provider-based campus of HCA Florida Trinity Hospital (no separate CCN) operating under CCN 100191, which is the roster lineage Community Hospital of New Port Richey -> Medical Center of Trinity at that very site."
+ },
+ {
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100255",
+  "matched_name": "TAMPA COMMUNITY HOSPITAL",
+  "reasoning": "HCA Florida West Tampa Hospital at 6001 Webb Rd (zip 33615) is the former Town & Country / Tampa Community Hospital with CCN 100255 (per AHD), which is in the roster through 2018; candidate 'West Shore Hospital' 100115 terminated in 1988."
+ },
+ {
+  "event_hospital": "Unicoi County Hospital (Ballad Health)",
+  "storm": "Helene",
+  "year": 2024,
+  "verdict": "NO_MATCH",
+  "reasoning": "The roster contains zero Tennessee rows (coastal-state coverage only), so Unicoi County Hospital in Erwin, TN cannot be matched to any roster CCN."
+ },
+ {
+  "event_hospital": "Orlando Health Bayfront Hospital",
+  "storm": "Milton",
+  "year": 2024,
+  "verdict": "MATCH",
+  "ccn": "100032",
+  "matched_name": "BAYFRONT MEDICAL CENTER",
+  "reasoning": "Orlando Health Bayfront Hospital is the renamed Bayfront Medical Center / Bayfront Health St. Petersburg (acquired by Orlando Health in 2020), same St. Petersburg facility as roster CCN 100032."
+ }
+]

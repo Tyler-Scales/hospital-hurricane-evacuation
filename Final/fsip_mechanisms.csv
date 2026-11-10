@@ -1,0 +1,61 @@
+hospital,storm,year,ccn,mechanisms,code,supporting_phrase
+Homestead Hospital (former James Archer Smith Hospital),Andrew,1992,100125,Loss of power or generator failure|Loss of water supply,PW,left the hospital without water or power
+Leonard J. Chabert Medical Center (L.J. Chabert Hospital),Andrew,1992,190183,Structural or wind damage,S,winds tore off part of the roof and wind-driven rain soaked the interior
+River Parishes Hospital,Andrew,1992,190193,Structural or wind damage,S,tornado damaged the hospital's roof
+Brunswick Community Hospital,Bonnie,1998,340158,Structural or wind damage,S,ripped part of the roof off
+Memorial Hermann Hospital and Memorial Hermann Children's Hospital (Texas Medical Center),Allison,2001,450068,Flooding|Loss of power or generator failure|Loss of water supply,FPW,"floodwater filled two lower levels, submerging switchgear and backup generators; lost all power, water"
+Bon Secours-St. Joseph Hospital (renamed Peace River Regional Medical Center in 2005),Charley,2004,100077,Structural or wind damage,S,winds blew off the roof and metal wall-panel failure destroyed elevator control equipment
+Charlotte Regional Medical Center,Charley,2004,100047,Structural or wind damage|Loss of power or generator failure,SP,"windows blown out, part of roof blown off, no power or phone service"
+Chalmette Medical Center,Katrina,2005,190185,Structural or wind damage|Flooding,SF,"100-mph roof damage, 12 ft brackish/oily flood"
+Charity Hospital (Medical Center of Louisiana at New Orleans),Katrina,2005,190005,Flooding|Loss of power or generator failure,FP,waist-deep water; basement generators knocked out by flooding
+Children's Hospital New Orleans,Katrina,2005,193300,Loss of water supply,W,escaped serious flooding but evacuated when city water pressure dropped to zero
+Kenner Regional Medical Center,Katrina,2005,190206,Loss of power or generator failure|Loss of water supply,PW,not flooded but closed amid region-wide power/water loss
+"LifeCare Hospitals of New Orleans - Memorial campus (82-bed LTACH, 7th floor of Memorial Medical Center)",Katrina,2005,192015,Flooding|Loss of power or generator failure|Loss of water supply,FPW,[inherited from host: Memorial Medical Center]
+Lindy Boggs Medical Center,Katrina,2005,190260,Flooding|Loss of power or generator failure|Loss of water supply,FPW,"flooding had begun, all generators failed, water pressure gone"
+Meadowcrest Hospital,Katrina,2005,190152,Security,X,damage 'None'; armed threats and gunfire near the hospital
+Memorial Medical Center (Baptist),Katrina,2005,190135,Flooding|Loss of power or generator failure|Loss of water supply|Sewer or cooling failure,FPWC,"~10 ft of floodwater, total generator failure, no running water/sewerage"
+Methodist Hospital (Pendleton Memorial Methodist),Katrina,2005,190124,Flooding|Loss of power or generator failure,FP,canal breach flooded basement and first floor; power failure
+Touro Infirmary,Katrina,2005,190046,Loss of power or generator failure|Loss of water supply|Security,PWX,escaped serious flooding but lost city power and water; generators failed; security concerns
+Tulane University Hospital and Clinic,Katrina,2005,190176,Flooding|Loss of power or generator failure,FP,extensive flood damage; rising water threatened generators
+Tulane-Lakeside Hospital,Katrina,2005,190176,Not documented,-,reason not detailed
+University Hospital (Medical Center of Louisiana at New Orleans),Katrina,2005,190005,Flooding|Loss of power or generator failure|Loss of water supply,FPW,flooded and lost power; patients rationed to a liter of water a day
+Veterans Affairs Medical Center New Orleans,Katrina,2005,19047F,Flooding|Loss of power or generator failure|Loss of water supply|Sewer or cooling failure,FPWC,"no running water, >100F, elevators out (flooded basement wiring)"
+Hancock Medical Center,Katrina,2005,250045,Flooding|Structural or wind damage,FS,storm surge flooded the first floor; surge destroyed the ground floor
+Kindred Hospital Fort Lauderdale (long-term acute care),Wilma,2005,102010,Loss of power or generator failure,P,post-storm generator failure
+West Boca Medical Center (West Boca Hospital),Wilma,2005,100268,Structural or wind damage|Loss of power or generator failure,SP,hospital damage/power loss
+Earl K. Long Medical Center,Gustav,2008,190122,Loss of power or generator failure|Sewer or cooling failure,PC,generators powered equipment but not air conditioning; switch back to grid failed
+Lane Regional Medical Center,Gustav,2008,190020,Loss of power or generator failure,P,backup generator failed Tuesday Sept 2
+Mainland Medical Center,Ike,2008,450530,Loss of water supply,W,municipal water service failed
+Vermont State Hospital (state psychiatric hospital - NOT acute care; include/exclude per protocol),Irene,2011,474003,Flooding,F,flooding Waterbury complex
+Palisades Medical Center,Sandy,2012,310003,Flooding|Loss of power or generator failure,FP,flood damage knocked out utility power and its backup generator failed
+Bellevue Hospital Center,Sandy,2012,330204,Flooding|Loss of power or generator failure|Fuel supply,FPU,"flooded the basement, submerging fuel pumps for the 13th-floor generator"
+Coney Island Hospital (NYC HHC),Sandy,2012,330196,Flooding|Loss of power or generator failure,FP,11 feet of seawater inundated the ER; ground-level generators shut down
+NYU Langone Medical Center (Tisch Hospital),Sandy,2012,330214,Flooding|Loss of power or generator failure|Fuel supply,FPU,basement generator flooded and the rooftop generator's fuel pump failed
+Southeastern Regional Medical Center,Matthew,2016,340050,Loss of water supply|Loss of power or generator failure,WP,flooded water plant left the hospital without municipal water ~9 days; backup generator failed
+Baptist Beaumont Hospital (Baptist Hospitals of Southeast Texas),Harvey,2017,450346,Loss of water supply,W,municipal water system failed
+Bayshore Medical Center (HCA),Harvey,2017,450097,Flooding,F,surrounded by rising floodwater
+Ben Taub Hospital (Harris Health),Harvey,2017,450289,Flooding,F,"basement flooding cut food, pharmacy and central supply"
+Citizens Medical Center,Harvey,2017,450023,Loss of power or generator failure|Loss of water supply,PW,loss of both electricity and municipal water
+DeTar Healthcare System (DeTar Hospital Navarro and DeTar Hospital North),Harvey,2017,450147,Loss of water supply|Loss of power or generator failure,WP,ED open on generator power; admissions suspended until permanent water supply re-established
+Bay Medical Center Sacred Heart,Michael,2018,100026,Structural or wind damage|Sewer or cooling failure,SC,"roof, structural and water damage, blown-out windows, cooling/plumbing failures"
+Emerald Coast Behavioral Hospital,Michael,2018,104073,Structural or wind damage,S,storm damage forced closure of all inpatient beds
+Gulf Coast Regional Medical Center,Michael,2018,100242,Structural or wind damage|Loss of power or generator failure|Loss of water supply|Sewer or cooling failure,SPWC,"significant damage and loss of public utilities (power, water, sewer)"
+Select Specialty Hospital - Panama City,Michael,2018,102017,Structural or wind damage|Sewer or cooling failure,SC,[inherited from host: Bay Medical Center Sacred Heart]
+CHRISTUS Ochsner Lake Area Hospital,Laura,2020,190201,Loss of water supply|Loss of power or generator failure,WP,citywide water/power outage
+CHRISTUS Ochsner St. Patrick Hospital,Laura,2020,190027,Structural or wind damage|Loss of power or generator failure|Loss of water supply,SPW,"roof, skybridge and window damage; backup power and a secondary water supply"
+Lake Charles Memorial Hospital,Laura,2020,190060,Loss of water supply|Loss of power or generator failure,WP,city water system destroyed (no water for sterilization or AC) while running on generators
+Lady of the Sea General Hospital,Ida,2021,191325,Structural or wind damage,S,part of the roof blew off
+Leonard J. Chabert Medical Center (Ochsner),Ida,2021,190183,Structural or wind damage,S,storm damage forced evacuation
+Ochsner St. Anne Hospital,Ida,2021,191324,Structural or wind damage|Flooding,SF,elevator penthouse blown off and water intrusion
+Terrebonne General Health System,Ida,2021,190008,Structural or wind damage|Sewer or cooling failure,SC,significant roof damage and lost air conditioning
+Golisano Children's Hospital of Southwest Florida (Lee Health),Ian,2022,100012,Loss of water supply,W,after the campus lost potable water
+Gulf Coast Medical Center (Lee Health),Ian,2022,100220,Loss of water supply,W,lost county water pressure/potable water
+HCA Florida Englewood Hospital,Ian,2022,100267,Loss of water supply|Loss of power or generator failure,WP,lost water and power
+HCA Florida Fawcett Hospital,Ian,2022,100236,Structural or wind damage|Flooding,SF,roof tore off above the ICU; storm surge flooded the lower-level ER
+HealthPark Medical Center (Lee Health),Ian,2022,100012,Flooding|Loss of water supply,FW,four feet of surge water pressed against its doors; lost water pressure/potable water
+Lee Memorial Hospital (Lee Health),Ian,2022,100012,Loss of water supply,W,suffered degraded water pressure
+"Asheville Specialty Hospital (LTACH, St. Joseph's campus, HCA Mission Health)",Helene,2024,342017,Loss of water supply,W,municipal water system remained down
+CarePartners Rehabilitation Hospital (HCA Mission Health),Helene,2024,343025,Loss of water supply,W,municipal water outage
+Sycamore Shoals Hospital (Ballad Health),Helene,2024,,Flooding,F,rising floodwaters from record inland flooding
+Unicoi County Hospital (Ballad Health),Helene,2024,,Flooding,F,the Nolichucky River breached its banks
+HCA Florida Largo Hospital (main campus),Milton,2024,100248,Flooding|Loss of power or generator failure,FP,extreme rainfall flooded the basement housing electrical infrastructure

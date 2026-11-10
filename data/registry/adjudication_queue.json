@@ -1,0 +1,2372 @@
+[
+ {
+  "storm": "Andrew",
+  "year": "1992",
+  "event_hospital": "Jackson Memorial Hospital / Ryder Trauma Center",
+  "event_city": "Miami",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100022",
+    "name": "JACKSON MEMORIAL HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.655
+   },
+   {
+    "ccn": "100022",
+    "name": "JACKSON MEMORIAL HOSP-",
+    "city": "MIAMI",
+    "score": 0.655
+   },
+   {
+    "ccn": "100208",
+    "name": "JACKSON SOUTH COMMUNITY HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.494
+   },
+   {
+    "ccn": "100022",
+    "name": "JACKSON HEALTH SYSTEM",
+    "city": "MIAMI",
+    "score": 0.47
+   },
+   {
+    "ccn": "100169",
+    "name": "FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER",
+    "city": "DAYTONA BEACH",
+    "score": 0.439
+   },
+   {
+    "ccn": "100068",
+    "name": "FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER",
+    "city": "DAYTONA BEACH",
+    "score": 0.439
+   }
+  ]
+ },
+ {
+  "storm": "Andrew",
+  "year": "1992",
+  "event_hospital": "Unnamed Houma hospital (infant airlift; possibly Chabert or Terrebonne General)",
+  "event_city": "Houma",
+  "state": "LA",
+  "action": "UNCLEAR",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "192037",
+    "name": "HOUMA - AMG SPECIALTY HOSPITAL",
+    "city": "HOUMA",
+    "score": 0.54
+   },
+   {
+    "ccn": "192037",
+    "name": "PHYSICIANS' ALLIANCE HOSPITAL OF HOUMA",
+    "city": "HOUMA",
+    "score": 0.471
+   },
+   {
+    "ccn": "194109",
+    "name": "COMPASS BEHAVIORAL CENTER OF HOUMA, INC",
+    "city": "HOUMA",
+    "score": 0.438
+   },
+   {
+    "ccn": "194024",
+    "name": "BAYOU OAKS HOSPITAL",
+    "city": "HOUMA",
+    "score": 0.435
+   },
+   {
+    "ccn": "192004",
+    "name": "ASCENSION HOSPITAL",
+    "city": "GONZALES",
+    "score": 0.385
+   },
+   {
+    "ccn": "192004",
+    "name": "ASCENSION HOSP",
+    "city": "GONZALES",
+    "score": 0.385
+   }
+  ]
+ },
+ {
+  "storm": "Allison",
+  "year": "2001",
+  "event_hospital": "Ben Taub General Hospital",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "450418",
+    "name": "BELLAIRE GEN HOSP",
+    "city": "HOUSTON",
+    "score": 0.648
+   },
+   {
+    "ccn": "450644",
+    "name": "ALIEF GENERAL HOSP",
+    "city": "HOUSTON",
+    "score": 0.632
+   },
+   {
+    "ccn": "45P073",
+    "name": "NORTHWEST GEN HOSP",
+    "city": "HOUSTON",
+    "score": 0.623
+   },
+   {
+    "ccn": "450502",
+    "name": "HOUSTON GEN HOSP",
+    "city": "HOUSTON",
+    "score": 0.618
+   },
+   {
+    "ccn": "45036E",
+    "name": "HOUSTON GEN HOSP",
+    "city": "HOUSTON",
+    "score": 0.618
+   },
+   {
+    "ccn": "670019",
+    "name": "UNIVERSITY GENERAL HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.616
+   }
+  ]
+ },
+ {
+  "storm": "Allison",
+  "year": "2001",
+  "event_hospital": "Memorial Hermann Hospital and Memorial Hermann Children's Hospital (Texas Medical Center)",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "450184",
+    "name": "MEMORIAL HERMANN HOSPITAL SYSTEM",
+    "city": "HOUSTON",
+    "score": 0.682
+   },
+   {
+    "ccn": "450068",
+    "name": "MEMORIAL HERMANN HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.672
+   },
+   {
+    "ccn": "450610",
+    "name": "MEMORIAL HERMANN MEMORIAL CITY HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.65
+   },
+   {
+    "ccn": "450184",
+    "name": "MEMORIAL HERMANN HEALTHCARE SYSTEM",
+    "city": "HOUSTON",
+    "score": 0.632
+   },
+   {
+    "ccn": "450068",
+    "name": "HERMANN HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.601
+   },
+   {
+    "ccn": "450068",
+    "name": "HERMANN HOSP",
+    "city": "HOUSTON",
+    "score": 0.601
+   }
+  ]
+ },
+ {
+  "storm": "Allison",
+  "year": "2001",
+  "event_hospital": "St. Luke's Episcopal Hospital (Texas Medical Center)",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "450193",
+    "name": "ST LUKES EPISCOPAL HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.775
+   },
+   {
+    "ccn": "450193",
+    "name": "ST LUKES EPISCOPAL HOSP",
+    "city": "HOUSTON",
+    "score": 0.775
+   },
+   {
+    "ccn": "670075",
+    "name": "ST LUKE'S HOSPITAL AT THE VINTAGE",
+    "city": "HOUSTON",
+    "score": 0.599
+   },
+   {
+    "ccn": "450066",
+    "name": "GASTON EPISCOPAL HOSPITAL",
+    "city": "DALLAS",
+    "score": 0.54
+   },
+   {
+    "ccn": "450066",
+    "name": "GASTON EPISCOPAL HOSP",
+    "city": "DALLAS",
+    "score": 0.54
+   },
+   {
+    "ccn": "450862",
+    "name": "ST LUKE'S THE WOODLANDS HOSPITAL",
+    "city": "THE WOODLANDS",
+    "score": 0.498
+   }
+  ]
+ },
+ {
+  "storm": "Charley",
+  "year": "2004",
+  "event_hospital": "Bon Secours-St. Joseph Hospital (renamed Peace River Regional Medical Center in 2005)",
+  "event_city": "Port Charlotte",
+  "state": "FL",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "103026",
+    "name": "BON SECOURS HOSP",
+    "city": "NORTH MIAMI",
+    "score": 0.727
+   },
+   {
+    "ccn": "100070",
+    "name": "BON SECOURS VENICE HOSPITAL",
+    "city": "VENICE",
+    "score": 0.622
+   },
+   {
+    "ccn": "100077",
+    "name": "ST JOSEPH HOSPITAL PORT CHARLOTTE",
+    "city": "PORT CHARLOTTE",
+    "score": 0.517
+   },
+   {
+    "ccn": "100075",
+    "name": "ST JOSEPH'S HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.507
+   },
+   {
+    "ccn": "100227",
+    "name": "ST JOSEPH'S WOMEN'S HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.417
+   },
+   {
+    "ccn": "100236",
+    "name": "FAWCETT MEM HOSP",
+    "city": "PORT CHARLOTTE",
+    "score": 0.384
+   }
+  ]
+ },
+ {
+  "storm": "Frances",
+  "year": "2004",
+  "event_hospital": "Miami Children's Hospital (now Nicklaus Children's Hospital)",
+  "event_city": "Miami",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "103301",
+    "name": "MIAMI CHILDRENS HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.774
+   },
+   {
+    "ccn": "103301",
+    "name": "MIAMI CHILDRENS HOSP",
+    "city": "MIAMI",
+    "score": 0.774
+   },
+   {
+    "ccn": "103301",
+    "name": "NICKLAUS CHILDREN'S HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.707
+   },
+   {
+    "ccn": "100222",
+    "name": "MIAMI GENERAL HOSP",
+    "city": "MIAMI",
+    "score": 0.659
+   },
+   {
+    "ccn": "100328",
+    "name": "MIAMI MEDICAL CENTER, THE",
+    "city": "MIAMI",
+    "score": 0.645
+   },
+   {
+    "ccn": "100008",
+    "name": "BAPTIST HOSPITAL OF MIAMI",
+    "city": "MIAMI",
+    "score": 0.623
+   }
+  ]
+ },
+ {
+  "storm": "Jeanne",
+  "year": "2004",
+  "event_hospital": "Miami Children's Hospital (now Nicklaus Children's Hospital)",
+  "event_city": "Miami",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "103301",
+    "name": "MIAMI CHILDRENS HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.774
+   },
+   {
+    "ccn": "103301",
+    "name": "MIAMI CHILDRENS HOSP",
+    "city": "MIAMI",
+    "score": 0.774
+   },
+   {
+    "ccn": "103301",
+    "name": "NICKLAUS CHILDREN'S HOSPITAL",
+    "city": "MIAMI",
+    "score": 0.707
+   },
+   {
+    "ccn": "100222",
+    "name": "MIAMI GENERAL HOSP",
+    "city": "MIAMI",
+    "score": 0.659
+   },
+   {
+    "ccn": "100328",
+    "name": "MIAMI MEDICAL CENTER, THE",
+    "city": "MIAMI",
+    "score": 0.645
+   },
+   {
+    "ccn": "100008",
+    "name": "BAPTIST HOSPITAL OF MIAMI",
+    "city": "MIAMI",
+    "score": 0.623
+   }
+  ]
+ },
+ {
+  "storm": "Dennis",
+  "year": "2005",
+  "event_hospital": "Baptist Hospital (and Gulf Breeze Hospital), Baptist Health Care",
+  "event_city": "Pensacola / Gulf Breeze",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "104027",
+    "name": "WEST FLORIDA COMMUNITY CARE CENTER",
+    "city": "MILTON",
+    "score": 0.72
+   },
+   {
+    "ccn": "104027",
+    "name": "W FL COMMUNITY CARE CTR",
+    "city": "MILTON",
+    "score": 0.72
+   },
+   {
+    "ccn": "104024",
+    "name": "CIRCLES OF CARE, INC",
+    "city": "MELBOURNE",
+    "score": 0.72
+   },
+   {
+    "ccn": "104024",
+    "name": "CIRCLES OF CARE INC",
+    "city": "MELBOURNE",
+    "score": 0.72
+   },
+   {
+    "ccn": "102026",
+    "name": "FLORIDA HOSPITAL AT CONNERTON LONG TERM ACUTE CARE",
+    "city": "LAND O LAKES",
+    "score": 0.72
+   },
+   {
+    "ccn": "102018",
+    "name": "COMPLEX CARE HOSPITAL AT RIDGELAKE",
+    "city": "SARASOTA",
+    "score": 0.72
+   }
+  ]
+ },
+ {
+  "storm": "Dennis",
+  "year": "2005",
+  "event_hospital": "Naval Hospital Pensacola",
+  "event_city": "Pensacola",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.785
+   },
+   {
+    "ccn": "10018F",
+    "name": "US NAVAL HOSP",
+    "city": "PENSACOLA",
+    "score": 0.641
+   },
+   {
+    "ccn": "102024",
+    "name": "SELECT SPECIALTY HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.608
+   },
+   {
+    "ccn": "100306",
+    "name": "SELECT SPECIALTY HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.608
+   },
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSPITAL",
+    "city": "PENSACOLA",
+    "score": 0.513
+   },
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSP",
+    "city": "PENSACOLA",
+    "score": 0.513
+   }
+  ]
+ },
+ {
+  "storm": "Katrina",
+  "year": "2005",
+  "event_hospital": "LifeCare Hospitals of New Orleans - Chalmette campus (37-bed LTACH within Chalmette Medical Center)",
+  "event_city": "Chalmette",
+  "state": "LA",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "193042",
+    "name": "LIFE CARE HOSP OF NEW ORLEANS",
+    "city": "CHALMETTE",
+    "score": 0.68
+   },
+   {
+    "ccn": "192015",
+    "name": "LIFE CARE HOSP OF NEW ORLEANS",
+    "city": "CHALMETTE",
+    "score": 0.68
+   },
+   {
+    "ccn": "190175",
+    "name": "UHS NEW ORLEANS INC",
+    "city": "CHALMETTE",
+    "score": 0.579
+   },
+   {
+    "ccn": "190005",
+    "name": "CHARITY HOSP OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.52
+   },
+   {
+    "ccn": "192023",
+    "name": "SPECIALTY HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.513
+   },
+   {
+    "ccn": "190237",
+    "name": "SPECIALTY HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.513
+   }
+  ]
+ },
+ {
+  "storm": "Katrina",
+  "year": "2005",
+  "event_hospital": "LifeCare Hospitals of New Orleans - Memorial campus (82-bed LTACH, 7th floor of Memorial Medical Center)",
+  "event_city": "New Orleans",
+  "state": "LA",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "190005",
+    "name": "CHARITY HOSP OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.729
+   },
+   {
+    "ccn": "192023",
+    "name": "SPECIALTY HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.721
+   },
+   {
+    "ccn": "190237",
+    "name": "SPECIALTY HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.721
+   },
+   {
+    "ccn": "192009",
+    "name": "T H C NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.721
+   },
+   {
+    "ccn": "190220",
+    "name": "T H C NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.721
+   },
+   {
+    "ccn": "192005",
+    "name": "PHYSICIANS HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.718
+   }
+  ]
+ },
+ {
+  "storm": "Katrina",
+  "year": "2005",
+  "event_hospital": "Tulane-Lakeside Hospital",
+  "event_city": "Metairie",
+  "state": "LA",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "190182",
+    "name": "LAKESIDE HOSPITAL",
+    "city": "METAIRIE",
+    "score": 0.798
+   },
+   {
+    "ccn": "190182",
+    "name": "LAKESIDE HOSP",
+    "city": "METAIRIE",
+    "score": 0.798
+   },
+   {
+    "ccn": "190176",
+    "name": "TULANE MEDICAL CTR HOSP",
+    "city": "NEW ORLEANS",
+    "score": 0.592
+   },
+   {
+    "ccn": "19085E",
+    "name": "LAKESIDE WOMENS + CHILDRENS HOSP",
+    "city": "METAIRIE",
+    "score": 0.551
+   },
+   {
+    "ccn": "190176",
+    "name": "TULANE UNIVERSITY HOSPITAL",
+    "city": "NEW ORLEANS",
+    "score": 0.525
+   },
+   {
+    "ccn": "190176",
+    "name": "TULANE MEDICAL CENTER",
+    "city": "NEW ORLEANS",
+    "score": 0.495
+   }
+  ]
+ },
+ {
+  "storm": "Katrina",
+  "year": "2005",
+  "event_hospital": "Veterans Affairs Medical Center New Orleans",
+  "event_city": "New Orleans",
+  "state": "LA",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "190005",
+    "name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.719
+   },
+   {
+    "ccn": "190162",
+    "name": "UNITED MEDICAL CENTER NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.713
+   },
+   {
+    "ccn": "192009",
+    "name": "T H C NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.665
+   },
+   {
+    "ccn": "190220",
+    "name": "T H C NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.665
+   },
+   {
+    "ccn": "192009",
+    "name": "CURAHEALTH NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.619
+   },
+   {
+    "ccn": "192005",
+    "name": "PHYSICIANS HOSPITAL OF NEW ORLEANS",
+    "city": "NEW ORLEANS",
+    "score": 0.604
+   }
+  ]
+ },
+ {
+  "storm": "Irene",
+  "year": "2011",
+  "event_hospital": "Manhattan VA Medical Center (VA NY Harbor Healthcare System)",
+  "event_city": "New York (Manhattan)",
+  "state": "NY",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "334054",
+    "name": "MANHATTAN PSYCHIATRIC CENTER",
+    "city": "NEW YORK",
+    "score": 0.661
+   },
+   {
+    "ccn": "33017F",
+    "name": "VA HOSP",
+    "city": "NEW YORK",
+    "score": 0.567
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR THROAT HOSPITAL",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR AND THROAT HOSPITAL",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR  THROAT HOSP",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330133",
+    "name": "CABRINI MEDICAL CENTER",
+    "city": "NEW YORK",
+    "score": 0.462
+   }
+  ]
+ },
+ {
+  "storm": "Sandy",
+  "year": "2012",
+  "event_hospital": "Manhattan VA Medical Center (VA NY Harbor Healthcare System)",
+  "event_city": "New York (Manhattan)",
+  "state": "NY",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "334054",
+    "name": "MANHATTAN PSYCHIATRIC CENTER",
+    "city": "NEW YORK",
+    "score": 0.661
+   },
+   {
+    "ccn": "33017F",
+    "name": "VA HOSP",
+    "city": "NEW YORK",
+    "score": 0.567
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR THROAT HOSPITAL",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR AND THROAT HOSPITAL",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330247",
+    "name": "MANHATTAN EYE EAR  THROAT HOSP",
+    "city": "NEW YORK",
+    "score": 0.485
+   },
+   {
+    "ccn": "330133",
+    "name": "CABRINI MEDICAL CENTER",
+    "city": "NEW YORK",
+    "score": 0.462
+   }
+  ]
+ },
+ {
+  "storm": "Matthew",
+  "year": "2016",
+  "event_hospital": "Medical University of South Carolina (MUSC)",
+  "event_city": "Charleston",
+  "state": "SC",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "42M030",
+    "name": "UNIVERSITY OF SOUTH CAROLINA INFIRMARY",
+    "city": "COLUMBIA",
+    "score": 0.753
+   },
+   {
+    "ccn": "422005",
+    "name": "SPECIALTY HOSPITAL OF SOUTH CAROLINA",
+    "city": "CHARLESTON",
+    "score": 0.75
+   },
+   {
+    "ccn": "420095",
+    "name": "SPECIALTY HOSPITAL OF SOUTH CAROLINA",
+    "city": "CHARLESTON",
+    "score": 0.75
+   },
+   {
+    "ccn": "420004",
+    "name": "MEDICAL UNIVERSITY HOSPITAL",
+    "city": "CHARLESTON",
+    "score": 0.676
+   },
+   {
+    "ccn": "420004",
+    "name": "MEDICAL UNIVERSITY HOSP",
+    "city": "CHARLESTON",
+    "score": 0.676
+   },
+   {
+    "ccn": "420097",
+    "name": "REGENCY HOSPITAL OF SOUTH CAROLINA",
+    "city": "FLORENCE",
+    "score": 0.558
+   }
+  ]
+ },
+ {
+  "storm": "Harvey",
+  "year": "2017",
+  "event_hospital": "Ben Taub Hospital (Harris Health)",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "POST_FSIP",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "450660",
+    "name": "MEDICAL CTR HOSP",
+    "city": "HOUSTON",
+    "score": 0.53
+   },
+   {
+    "ccn": "450184",
+    "name": "MEMORIAL HOSPITAL SYSTEM",
+    "city": "HOUSTON",
+    "score": 0.501
+   },
+   {
+    "ccn": "454015",
+    "name": "BELLE PARK HOSP",
+    "city": "HOUSTON",
+    "score": 0.475
+   },
+   {
+    "ccn": "45074F",
+    "name": "VA HOSP",
+    "city": "HOUSTON",
+    "score": 0.471
+   },
+   {
+    "ccn": "45105E",
+    "name": "BELHAVEN HOSP",
+    "city": "HOUSTON",
+    "score": 0.468
+   },
+   {
+    "ccn": "454026",
+    "name": "WEST OAKS HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.459
+   }
+  ]
+ },
+ {
+  "storm": "Harvey",
+  "year": "2017",
+  "event_hospital": "Driscoll Children's Hospital",
+  "event_city": "Corpus Christi",
+  "state": "TX",
+  "action": "PRE_PARTIAL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "453301",
+    "name": "DRISCOLL CHILDRENS HOSPITAL",
+    "city": "CORPUS CHRISTI",
+    "score": 0.775
+   },
+   {
+    "ccn": "450553",
+    "name": "DRISCOLL FOUNDATION CHILDRENS HOSP",
+    "city": "CORPUS CHRISTI",
+    "score": 0.656
+   },
+   {
+    "ccn": "45052E",
+    "name": "DRISCOLL FOUNDATION CHILDRENS HOSP",
+    "city": "CORPUS CHRISTI",
+    "score": 0.656
+   },
+   {
+    "ccn": "453306",
+    "name": "COVENANT CHILDREN HOSPITAL",
+    "city": "LUBBOCK",
+    "score": 0.517
+   },
+   {
+    "ccn": "453313",
+    "name": "EL PASO CHILDREN'S HOSPITAL",
+    "city": "EL PASO",
+    "score": 0.498
+   },
+   {
+    "ccn": "450554",
+    "name": "CLARA DRISCOLL MEM PAVILION",
+    "city": "CORPUS CHRISTI",
+    "score": 0.456
+   }
+  ]
+ },
+ {
+  "storm": "Harvey",
+  "year": "2017",
+  "event_hospital": "MD Anderson Cancer Center",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "450076",
+    "name": "UNIV OF TX M D ANDERSON CANCER CTR,THE",
+    "city": "HOUSTON",
+    "score": 0.682
+   },
+   {
+    "ccn": "450076",
+    "name": "UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER,THE",
+    "city": "HOUSTON",
+    "score": 0.67
+   },
+   {
+    "ccn": "450076",
+    "name": "M D ANDERSON HOSP + TUMOR INST",
+    "city": "HOUSTON",
+    "score": 0.528
+   },
+   {
+    "ccn": "450660",
+    "name": "MEDICAL CTR HOSP",
+    "city": "HOUSTON",
+    "score": 0.448
+   },
+   {
+    "ccn": "452011",
+    "name": "ST ANTHONY CENTER",
+    "city": "HOUSTON",
+    "score": 0.407
+   },
+   {
+    "ccn": "670099",
+    "name": "EMIL J FREIREICH CANCER CENTER",
+    "city": "SHENANDOAH",
+    "score": 0.405
+   }
+  ]
+ },
+ {
+  "storm": "Harvey",
+  "year": "2017",
+  "event_hospital": "Texas Children's Hospital",
+  "event_city": "Houston",
+  "state": "TX",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "453304",
+    "name": "TEXAS CHILDRENS HOSP",
+    "city": "HOUSTON",
+    "score": 0.774
+   },
+   {
+    "ccn": "450576",
+    "name": "TEXAS CHILDRENS HOSP",
+    "city": "HOUSTON",
+    "score": 0.774
+   },
+   {
+    "ccn": "45055E",
+    "name": "TEXAS CHILDRENS HOSP",
+    "city": "HOUSTON",
+    "score": 0.774
+   },
+   {
+    "ccn": "453314",
+    "name": "TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN",
+    "city": "DALLAS",
+    "score": 0.72
+   },
+   {
+    "ccn": "453310",
+    "name": "DELL CHILDREN'S MEDICAL CENTER OF CENTRAL TEXAS",
+    "city": "AUSTIN",
+    "score": 0.72
+   },
+   {
+    "ccn": "450804",
+    "name": "TEXAS ORTHOPEDIC HOSPITAL",
+    "city": "HOUSTON",
+    "score": 0.621
+   }
+  ]
+ },
+ {
+  "storm": "Irma",
+  "year": "2017",
+  "event_hospital": "Baptist Medical Center Fernandina Beach",
+  "event_city": "Fernandina Beach",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100088",
+    "name": "BAPTIST MEDICAL CTR",
+    "city": "JACKSONVILLE",
+    "score": 0.655
+   },
+   {
+    "ccn": "100088",
+    "name": "BAPTIST MEDICAL CENTER",
+    "city": "JACKSONVILLE",
+    "score": 0.655
+   },
+   {
+    "ccn": "100140",
+    "name": "BAPTIST MEDICAL CENTER NASSAU",
+    "city": "FERNANDINA BEACH",
+    "score": 0.494
+   },
+   {
+    "ccn": "100140",
+    "name": "BAPTIST MEDICAL CENTER - NASSAU",
+    "city": "FERNANDINA BEACH",
+    "score": 0.494
+   },
+   {
+    "ccn": "100140",
+    "name": "BAPTIST MEDICAL CENTER  NASSAU",
+    "city": "FERNANDINA BEACH",
+    "score": 0.494
+   },
+   {
+    "ccn": "100199",
+    "name": "POMPANO BEACH MEDICAL CENTER",
+    "city": "POMPANO BEACH",
+    "score": 0.492
+   }
+  ]
+ },
+ {
+  "storm": "Irma",
+  "year": "2017",
+  "event_hospital": "Florida Hospital (Adventist) \u2014 Ormond Beach, New Smyrna Beach and Apopka campuses",
+  "event_city": "Ormond Beach / New Smyrna Beach / Apopka",
+  "state": "FL",
+  "action": "PRE_PARTIAL",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "100169",
+    "name": "FLORIDA HOSPITAL ORMOND BEACH",
+    "city": "ORMOND BEACH",
+    "score": 0.538
+   },
+   {
+    "ccn": "100014",
+    "name": "FLORIDA HOSPITAL NEW SMYRNA",
+    "city": "NEW SMYRNA BEACH",
+    "score": 0.525
+   },
+   {
+    "ccn": "100169",
+    "name": "MEMORIAL HOSPITAL ORMOND BEACH",
+    "city": "ORMOND BEACH",
+    "score": 0.507
+   },
+   {
+    "ccn": "100169",
+    "name": "ORMOND BEACH MEMORIAL HOSP",
+    "city": "ORMOND BEACH",
+    "score": 0.423
+   },
+   {
+    "ccn": "10051E",
+    "name": "ORMOND BEACH MEM HOSP",
+    "city": "ORMOND BEACH",
+    "score": 0.405
+   },
+   {
+    "ccn": "100169",
+    "name": "FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER",
+    "city": "DAYTONA BEACH",
+    "score": 0.384
+   }
+  ]
+ },
+ {
+  "storm": "Irma",
+  "year": "2017",
+  "event_hospital": "NCH Baker Hospital Downtown (Naples Community Hospital)",
+  "event_city": "Naples",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "100134",
+    "name": "BAKER COMMUNITY HOSPITAL & HEALTH CTR",
+    "city": "MACCLENNY",
+    "score": 0.373
+   },
+   {
+    "ccn": "100253",
+    "name": "THE HOSPITAL",
+    "city": "JUPITER",
+    "score": 0.364
+   },
+   {
+    "ccn": "100018",
+    "name": "NAPLES COMMUNITY HOSPITAL INC",
+    "city": "NAPLES",
+    "score": 0.359
+   },
+   {
+    "ccn": "100018",
+    "name": "NAPLES COMMUNITY HOSP INC",
+    "city": "NAPLES",
+    "score": 0.359
+   },
+   {
+    "ccn": "100286",
+    "name": "CLEVELAND CLINIC FLORIDA HOSPITAL NAPLES",
+    "city": "NAPLES",
+    "score": 0.351
+   },
+   {
+    "ccn": "102032",
+    "name": "LANDMARK HOSPITAL OF SOUTHWEST FLORIDA",
+    "city": "NAPLES",
+    "score": 0.344
+   }
+  ]
+ },
+ {
+  "storm": "Florence",
+  "year": "2018",
+  "event_hospital": "CarolinaEast Medical Center",
+  "event_city": "New Bern",
+  "state": "NC",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "340131",
+    "name": "CAROLINA EAST MEDICAL CENTER",
+    "city": "NEW BERN",
+    "score": 0.592
+   },
+   {
+    "ccn": "340131",
+    "name": "CRAVEN REGIONAL MEDICAL CENTER",
+    "city": "NEW BERN",
+    "score": 0.482
+   },
+   {
+    "ccn": "340113",
+    "name": "CAROLINAS MEDICAL CENTER",
+    "city": "CHARLOTTE",
+    "score": 0.424
+   },
+   {
+    "ccn": "340130",
+    "name": "CAROLINAS MEDICAL CENTER-UNION",
+    "city": "MONROE",
+    "score": 0.379
+   },
+   {
+    "ccn": "340098",
+    "name": "CAROLINAS MED CENTER-MERCY",
+    "city": "CHARLOTTE",
+    "score": 0.379
+   },
+   {
+    "ccn": "340145",
+    "name": "CAROLINAS MEDICAL CENTER-LINCOLN",
+    "city": "LINCOLNTON",
+    "score": 0.366
+   }
+  ]
+ },
+ {
+  "storm": "Florence",
+  "year": "2018",
+  "event_hospital": "Carteret Health Care",
+  "event_city": "Morehead City",
+  "state": "NC",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "340142",
+    "name": "CARTERET GENERAL HOSPITAL",
+    "city": "MOREHEAD CITY",
+    "score": 0.613
+   },
+   {
+    "ccn": "340142",
+    "name": "CARTERET CO GENERAL HOSP-",
+    "city": "MOREHEAD CITY",
+    "score": 0.55
+   },
+   {
+    "ccn": "340027",
+    "name": "UNC LENOIR HEALTH CARE",
+    "city": "KINSTON",
+    "score": 0.438
+   },
+   {
+    "ccn": "340084",
+    "name": "CAROLINAS HEALTH CARE SYSTEM ANSON",
+    "city": "WADESBORO",
+    "score": 0.388
+   },
+   {
+    "ccn": "340103",
+    "name": "MOREHEAD CITY HOSP",
+    "city": "MOREHEAD CITY",
+    "score": 0.321
+   },
+   {
+    "ccn": "341311",
+    "name": "CHATHAM HOSPITAL INC",
+    "city": "SILER CITY",
+    "score": 0.283
+   }
+  ]
+ },
+ {
+  "storm": "Florence",
+  "year": "2018",
+  "event_hospital": "McLeod Health Seacoast",
+  "event_city": "Little River",
+  "state": "SC",
+  "action": "UNCLEAR",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "420105",
+    "name": "MCLEOD LORIS SEACOAST HOSPITAL",
+    "city": "LORIS",
+    "score": 0.72
+   },
+   {
+    "ccn": "420107",
+    "name": "MCLEOD HEALTH CHERAW",
+    "city": "CHERAW",
+    "score": 0.526
+   },
+   {
+    "ccn": "420109",
+    "name": "MCLEOD HEALTH CLARENDON",
+    "city": "MANNING",
+    "score": 0.503
+   },
+   {
+    "ccn": "420051",
+    "name": "MCLEOD REGIONAL MEDICAL CENTER",
+    "city": "FLORENCE",
+    "score": 0.483
+   },
+   {
+    "ccn": "420005",
+    "name": "MCLEOD MEDICAL CENTER - DILLON",
+    "city": "DILLON",
+    "score": 0.417
+   },
+   {
+    "ccn": "420057",
+    "name": "MCLEOD MEDICAL CENTER - DARLINGTON",
+    "city": "DARLINGTON",
+    "score": 0.417
+   }
+  ]
+ },
+ {
+  "storm": "Florence",
+  "year": "2018",
+  "event_hospital": "Tidelands Health Rehabilitation Hospital",
+  "event_city": "Murrells Inlet",
+  "state": "SC",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "420098",
+    "name": "TIDELANDS WACCAMAW COMMUNITY HOSPITAL",
+    "city": "MURRELLS INLET",
+    "score": 0.556
+   },
+   {
+    "ccn": "423028",
+    "name": "HEALTHSOUTH REHABILITATION HOSPITAL",
+    "city": "ROCK HILL",
+    "score": 0.543
+   },
+   {
+    "ccn": "420020",
+    "name": "TIDELANDS HEALTH",
+    "city": "GEORGETOWN",
+    "score": 0.532
+   },
+   {
+    "ccn": "423029",
+    "name": "ANMED HEALTHSOUTH REHABILITATION HOSPITAL",
+    "city": "ANDERSON",
+    "score": 0.515
+   },
+   {
+    "ccn": "423025",
+    "name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF COLA",
+    "city": "COLUMBIA",
+    "score": 0.485
+   },
+   {
+    "ccn": "423026",
+    "name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FLORE",
+    "city": "FLORENCE",
+    "score": 0.481
+   }
+  ]
+ },
+ {
+  "storm": "Sally",
+  "year": "2020",
+  "event_hospital": "Naval Hospital Pensacola",
+  "event_city": "Pensacola",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.785
+   },
+   {
+    "ccn": "10018F",
+    "name": "US NAVAL HOSP",
+    "city": "PENSACOLA",
+    "score": 0.641
+   },
+   {
+    "ccn": "102024",
+    "name": "SELECT SPECIALTY HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.608
+   },
+   {
+    "ccn": "100306",
+    "name": "SELECT SPECIALTY HOSPITAL PENSACOLA",
+    "city": "PENSACOLA",
+    "score": 0.608
+   },
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSPITAL",
+    "city": "PENSACOLA",
+    "score": 0.513
+   },
+   {
+    "ccn": "100093",
+    "name": "BAPTIST HOSP",
+    "city": "PENSACOLA",
+    "score": 0.513
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "Golisano Children's Hospital of Southwest Florida (Lee Health)",
+  "event_city": "Fort Myers",
+  "state": "FL",
+  "action": "POST_FSIP",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "100220",
+    "name": "SOUTHWEST FLORIDA REGIONAL MEDICAL CENTER",
+    "city": "FORT MYERS",
+    "score": 0.503
+   },
+   {
+    "ccn": "102032",
+    "name": "LANDMARK HOSPITAL OF SOUTHWEST FLORIDA",
+    "city": "NAPLES",
+    "score": 0.5
+   },
+   {
+    "ccn": "100327",
+    "name": "LANDMARK HOSPITAL OF SOUTHWEST FLORIDA",
+    "city": "NAPLES",
+    "score": 0.5
+   },
+   {
+    "ccn": "100220",
+    "name": "SOUTHWEST FLORIDA REG MED CENTER",
+    "city": "FORT MYERS",
+    "score": 0.468
+   },
+   {
+    "ccn": "103300",
+    "name": "ALL CHILDREN'S HOSPITAL, INC",
+    "city": "SAINT PETERSBURG",
+    "score": 0.41
+   },
+   {
+    "ccn": "102010",
+    "name": "KINDRED HOSPITAL SOUTH FLORIDA",
+    "city": "FORT LAUDERDALE",
+    "score": 0.399
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "event_city": "St. Petersburg",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100126",
+    "name": "PALMS OF PASADENA HOSPITAL",
+    "city": "SAINT PETERSBURG",
+    "score": 0.72
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSP",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100041",
+    "name": "DOCTORS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.41
+   },
+   {
+    "ccn": "10054E",
+    "name": "ALL CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.397
+   },
+   {
+    "ccn": "100066",
+    "name": "AMERICAN LEGION CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.393
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "HCA Florida South Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.692
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.627
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.623
+   },
+   {
+    "ccn": "100132",
+    "name": "SOUTH FLORIDA BAPTIST HOSPITAL",
+    "city": "PLANT CITY",
+    "score": 0.58
+   },
+   {
+    "ccn": "100132",
+    "name": "SOUTH FLORIDA BAPTIST HOSP-",
+    "city": "PLANT CITY",
+    "score": 0.58
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.567
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.697
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.63
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.609
+   },
+   {
+    "ccn": "100115",
+    "name": "WEST SHORE HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.585
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.571
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSP",
+    "city": "TAMPA",
+    "score": 0.571
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "HealthPark Medical Center (Lee Health)",
+  "event_city": "Fort Myers",
+  "state": "FL",
+  "action": "POST_FSIP",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100047",
+    "name": "MEDICAL CENTER",
+    "city": "PUNTA GORDA",
+    "score": 0.69
+   },
+   {
+    "ccn": "100210",
+    "name": "FLORIDA MEDICAL CENTER",
+    "city": "FORT LAUDERDALE",
+    "score": 0.661
+   },
+   {
+    "ccn": "100088",
+    "name": "BAPTIST MEDICAL CTR",
+    "city": "JACKSONVILLE",
+    "score": 0.601
+   },
+   {
+    "ccn": "100088",
+    "name": "BAPTIST MEDICAL CENTER",
+    "city": "JACKSONVILLE",
+    "score": 0.601
+   },
+   {
+    "ccn": "100210",
+    "name": "FLORIDA MEDICAL CENTER",
+    "city": "LAUDERDALE LAKES",
+    "score": 0.581
+   },
+   {
+    "ccn": "100169",
+    "name": "FLORIDA HOSPITAL MEMORIAL MEDICAL CENTER",
+    "city": "DAYTONA BEACH",
+    "score": 0.446
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "NCH Baker Hospital Downtown / NCH North Naples Hospital (NCH Healthcare System)",
+  "event_city": "Naples",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "100286",
+    "name": "CLEVELAND CLINIC FLORIDA HOSPITAL NAPLES",
+    "city": "NAPLES",
+    "score": 0.422
+   },
+   {
+    "ccn": "104063",
+    "name": "WILLOUGH AT NAPLES,THE",
+    "city": "NAPLES",
+    "score": 0.398
+   },
+   {
+    "ccn": "104063",
+    "name": "WILLOUGH AT NAPLES, THE",
+    "city": "NAPLES",
+    "score": 0.398
+   },
+   {
+    "ccn": "100018",
+    "name": "NAPLES COMMUNITY HOSPITAL INC",
+    "city": "NAPLES",
+    "score": 0.395
+   },
+   {
+    "ccn": "100018",
+    "name": "NAPLES COMMUNITY HOSP INC",
+    "city": "NAPLES",
+    "score": 0.395
+   },
+   {
+    "ccn": "100018",
+    "name": "NAPLES COMMUNITY HOSPITAL",
+    "city": "NAPLES",
+    "score": 0.369
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "Sarasota Memorial Hospital - Venice",
+  "event_city": "Venice",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100087",
+    "name": "SARASOTA MEMORIAL HOSPITAL",
+    "city": "SARASOTA",
+    "score": 0.672
+   },
+   {
+    "ccn": "100070",
+    "name": "VENICE HOSPITAL INC",
+    "city": "VENICE",
+    "score": 0.667
+   },
+   {
+    "ccn": "100087",
+    "name": "MEMORIAL HOSP",
+    "city": "SARASOTA",
+    "score": 0.581
+   },
+   {
+    "ccn": "100038",
+    "name": "MEMORIAL HOSPITAL",
+    "city": "HOLLYWOOD",
+    "score": 0.581
+   },
+   {
+    "ccn": "100038",
+    "name": "MEMORIAL HOSP",
+    "city": "HOLLYWOOD",
+    "score": 0.581
+   },
+   {
+    "ccn": "100070",
+    "name": "BON SECOURS VENICE HOSPITAL",
+    "city": "VENICE",
+    "score": 0.513
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "ShorePoint Health Port Charlotte",
+  "event_city": "Port Charlotte",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100077",
+    "name": "BAYFRONT HEALTH PORT CHARLOTTE",
+    "city": "PORT CHARLOTTE",
+    "score": 0.788
+   },
+   {
+    "ccn": "100077",
+    "name": "ST JOSEPH HOSPITAL PORT CHARLOTTE",
+    "city": "PORT CHARLOTTE",
+    "score": 0.743
+   },
+   {
+    "ccn": "100077",
+    "name": "ST JOSEPH HOSP OF PORT CHARLOTTE",
+    "city": "PUNTA GORDA",
+    "score": 0.579
+   },
+   {
+    "ccn": "100260",
+    "name": "HCA MEDICAL CENTER OF PORT ST LUCIE",
+    "city": "PORT SAINT LUCIE",
+    "score": 0.406
+   },
+   {
+    "ccn": "100191",
+    "name": "COMMUNITY HOSPITAL OF NEW PORT RICHEY",
+    "city": "NEW PORT RICHEY",
+    "score": 0.38
+   },
+   {
+    "ccn": "100191",
+    "name": "HCA NEW PORT RICHEY HOSPITAL",
+    "city": "NEW PORT RICHEY",
+    "score": 0.37
+   }
+  ]
+ },
+ {
+  "storm": "Ian",
+  "year": "2022",
+  "event_hospital": "ShorePoint Health Punta Gorda",
+  "event_city": "Punta Gorda",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100047",
+    "name": "BAYFRONT HEALTH PUNTA GORDA",
+    "city": "PUNTA GORDA",
+    "score": 0.779
+   },
+   {
+    "ccn": "100047",
+    "name": "CHARLOTTE REGIONAL MEDICAL CENTER",
+    "city": "PUNTA GORDA",
+    "score": 0.295
+   },
+   {
+    "ccn": "100047",
+    "name": "MEDICAL CENTER",
+    "city": "PUNTA GORDA",
+    "score": 0.276
+   },
+   {
+    "ccn": "100077",
+    "name": "ST JOSEPH HOSP OF PORT CHARLOTTE",
+    "city": "PUNTA GORDA",
+    "score": 0.275
+   },
+   {
+    "ccn": "10D016",
+    "name": "HOLMES CO HEALTH DEPT",
+    "city": "BONIFAY",
+    "score": 0.252
+   },
+   {
+    "ccn": "10D014",
+    "name": "WASHINGTON CO HEALTH DEPT",
+    "city": "CHIPLEY",
+    "score": 0.25
+   }
+  ]
+ },
+ {
+  "storm": "Idalia",
+  "year": "2023",
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "event_city": "St. Petersburg",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100126",
+    "name": "PALMS OF PASADENA HOSPITAL",
+    "city": "SAINT PETERSBURG",
+    "score": 0.72
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSP",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100041",
+    "name": "DOCTORS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.41
+   },
+   {
+    "ccn": "10054E",
+    "name": "ALL CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.397
+   },
+   {
+    "ccn": "100066",
+    "name": "AMERICAN LEGION CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.393
+   }
+  ]
+ },
+ {
+  "storm": "Idalia",
+  "year": "2023",
+  "event_hospital": "HCA Florida Trinity West Hospital",
+  "event_city": "New Port Richey",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100231",
+    "name": "WEST FLORIDA HOSPITAL",
+    "city": "PENSACOLA",
+    "score": 0.558
+   },
+   {
+    "ccn": "100231",
+    "name": "WEST FLORIDA HOSP",
+    "city": "PENSACOLA",
+    "score": 0.558
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.514
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSP",
+    "city": "ORLANDO",
+    "score": 0.514
+   },
+   {
+    "ccn": "100281",
+    "name": "MEMORIAL HOSPITAL WEST",
+    "city": "PEMBROKE PINES",
+    "score": 0.488
+   },
+   {
+    "ccn": "100037",
+    "name": "NORTH WEST HOSP",
+    "city": "MIAMI",
+    "score": 0.478
+   }
+  ]
+ },
+ {
+  "storm": "Idalia",
+  "year": "2023",
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.697
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.63
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.609
+   },
+   {
+    "ccn": "100115",
+    "name": "WEST SHORE HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.585
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.571
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSP",
+    "city": "TAMPA",
+    "score": 0.571
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "event_city": "St. Petersburg",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100126",
+    "name": "PALMS OF PASADENA HOSPITAL",
+    "city": "SAINT PETERSBURG",
+    "score": 0.72
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSP",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100041",
+    "name": "DOCTORS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.41
+   },
+   {
+    "ccn": "10054E",
+    "name": "ALL CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.397
+   },
+   {
+    "ccn": "100066",
+    "name": "AMERICAN LEGION CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.393
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "HCA Florida South Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.692
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.627
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.623
+   },
+   {
+    "ccn": "100132",
+    "name": "SOUTH FLORIDA BAPTIST HOSPITAL",
+    "city": "PLANT CITY",
+    "score": 0.58
+   },
+   {
+    "ccn": "100132",
+    "name": "SOUTH FLORIDA BAPTIST HOSP-",
+    "city": "PLANT CITY",
+    "score": 0.58
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.567
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.697
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.63
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.609
+   },
+   {
+    "ccn": "100115",
+    "name": "WEST SHORE HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.585
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.571
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSP",
+    "city": "TAMPA",
+    "score": 0.571
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "TGH Crystal River (Tampa General; formerly Bravera Health Seven Rivers)",
+  "event_city": "Crystal River",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "100249",
+    "name": "BAYFRONT HEALTH SEVEN RIVERS",
+    "city": "CRYSTAL RIVER",
+    "score": 0.35
+   },
+   {
+    "ccn": "100217",
+    "name": "SEBASTIAN RIVER MEDICAL CENTER",
+    "city": "SEBASTIAN",
+    "score": 0.31
+   },
+   {
+    "ccn": "104016",
+    "name": "CPC ST JOHNS RIVER HOSPITAL",
+    "city": "JACKSONVILLE",
+    "score": 0.294
+   },
+   {
+    "ccn": "100249",
+    "name": "SEVEN RIVERS COMMUNITY HOSPITAL",
+    "city": "CRYSTAL RIVER",
+    "score": 0.281
+   },
+   {
+    "ccn": "100249",
+    "name": "SEVEN RIVERS COMMUNITY HOSP",
+    "city": "CRYSTAL RIVER",
+    "score": 0.281
+   },
+   {
+    "ccn": "100105",
+    "name": "INDIAN RIVER MEDICAL CENTER",
+    "city": "VERO BEACH",
+    "score": 0.281
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "Wellstar MCG Health / Wellstar Children's Hospital of Georgia",
+  "event_city": "Augusta",
+  "state": "GA",
+  "action": "SIP_OK",
+  "current_tier": "UNMATCHED",
+  "candidates": [
+   {
+    "ccn": "114029",
+    "name": "GEORGIA REGIONAL HOSP AT AUGUSTA",
+    "city": "AUGUSTA",
+    "score": 0.44
+   },
+   {
+    "ccn": "110162",
+    "name": "GEORGIA REGIONAL HOSPITAL-AUGUSTA",
+    "city": "AUGUSTA",
+    "score": 0.436
+   },
+   {
+    "ccn": "110162",
+    "name": "GEORGIA REGIONAL HOSPITAL- AUGUSTA",
+    "city": "AUGUSTA",
+    "score": 0.436
+   },
+   {
+    "ccn": "110034",
+    "name": "MCG HEALTH, INC",
+    "city": "AUGUSTA",
+    "score": 0.435
+   },
+   {
+    "ccn": "110034",
+    "name": "MEDICAL COLLEGE OF GEORGIA",
+    "city": "AUGUSTA",
+    "score": 0.429
+   },
+   {
+    "ccn": "110016",
+    "name": "WELLSTAR WEST GEORGIA MEDICAL CENTER",
+    "city": "LAGRANGE",
+    "score": 0.419
+   }
+  ]
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "Sycamore Shoals Hospital (Ballad Health)",
+  "event_city": "Elizabethton",
+  "state": "TN",
+  "action": "POST_FSIP",
+  "current_tier": "UNMATCHED",
+  "candidates": []
+ },
+ {
+  "storm": "Helene",
+  "year": "2024",
+  "event_hospital": "Unicoi County Hospital (Ballad Health)",
+  "event_city": "Erwin",
+  "state": "TN",
+  "action": "POST_FSIP",
+  "current_tier": "UNMATCHED",
+  "candidates": []
+ },
+ {
+  "storm": "Milton",
+  "year": "2024",
+  "event_hospital": "HCA Florida Largo West Hospital",
+  "event_city": "Largo",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100248",
+    "name": "LARGO MEDICAL CENTER HOSPITAL",
+    "city": "LARGO",
+    "score": 0.68
+   },
+   {
+    "ccn": "100248",
+    "name": "HCA MEDICAL CENTER HOSPITAL LARGO",
+    "city": "LARGO",
+    "score": 0.636
+   },
+   {
+    "ccn": "100248",
+    "name": "LARGO MEDICAL CENTER",
+    "city": "LARGO",
+    "score": 0.601
+   },
+   {
+    "ccn": "100231",
+    "name": "WEST FLORIDA HOSPITAL",
+    "city": "PENSACOLA",
+    "score": 0.569
+   },
+   {
+    "ccn": "100231",
+    "name": "WEST FLORIDA HOSP",
+    "city": "PENSACOLA",
+    "score": 0.569
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.526
+   }
+  ]
+ },
+ {
+  "storm": "Milton",
+  "year": "2024",
+  "event_hospital": "HCA Florida Pasadena Hospital",
+  "event_city": "St. Petersburg",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100126",
+    "name": "PALMS OF PASADENA HOSPITAL",
+    "city": "SAINT PETERSBURG",
+    "score": 0.72
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSPITAL",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100007",
+    "name": "FLORIDA HOSP",
+    "city": "ORLANDO",
+    "score": 0.595
+   },
+   {
+    "ccn": "100041",
+    "name": "DOCTORS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.41
+   },
+   {
+    "ccn": "10054E",
+    "name": "ALL CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.397
+   },
+   {
+    "ccn": "100066",
+    "name": "AMERICAN LEGION CHILDRENS HOSP",
+    "city": "ST PETERSBURG",
+    "score": 0.393
+   }
+  ]
+ },
+ {
+  "storm": "Milton",
+  "year": "2024",
+  "event_hospital": "HCA Florida West Tampa Hospital",
+  "event_city": "Tampa",
+  "state": "FL",
+  "action": "PRE_FULL",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100173",
+    "name": "FLORIDA HOSPITAL TAMPA",
+    "city": "TAMPA",
+    "score": 0.697
+   },
+   {
+    "ccn": "100206",
+    "name": "MEMORIAL HOSPITAL OF TAMPA",
+    "city": "TAMPA",
+    "score": 0.63
+   },
+   {
+    "ccn": "100173",
+    "name": "ADVENTHEALTH TAMPA",
+    "city": "TAMPA",
+    "score": 0.609
+   },
+   {
+    "ccn": "100115",
+    "name": "WEST SHORE HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.585
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSPITAL",
+    "city": "TAMPA",
+    "score": 0.571
+   },
+   {
+    "ccn": "100128",
+    "name": "TAMPA GENERAL HOSP",
+    "city": "TAMPA",
+    "score": 0.571
+   }
+  ]
+ },
+ {
+  "storm": "Milton",
+  "year": "2024",
+  "event_hospital": "Orlando Health Bayfront Hospital",
+  "event_city": "St. Petersburg",
+  "state": "FL",
+  "action": "SIP_OK",
+  "current_tier": "REVIEW",
+  "candidates": [
+   {
+    "ccn": "100032",
+    "name": "BAYFRONT MEDICAL CENTER",
+    "city": "SAINT PETERSBURG",
+    "score": 0.551
+   },
+   {
+    "ccn": "100006",
+    "name": "ORLANDO HEALTH",
+    "city": "ORLANDO",
+    "score": 0.549
+   },
+   {
+    "ccn": "100032",
+    "name": "BAYFRONT MEDICAL CENTER INC",
+    "city": "SAINT PETERSBURG",
+    "score": 0.538
+   },
+   {
+    "ccn": "100006",
+    "name": "ORLANDO REGIONAL HEALTHCARE",
+    "city": "ORLANDO",
+    "score": 0.519
+   },
+   {
+    "ccn": "100006",
+    "name": "ORLANDO HEALTH ORLANDO REGIONAL MEDICAL CENTER",
+    "city": "ORLANDO",
+    "score": 0.517
+   },
+   {
+    "ccn": "100021",
+    "name": "ORLANDO GENERAL HOSP-",
+    "city": "ORLANDO",
+    "score": 0.505
+   }
+  ]
+ }
+]

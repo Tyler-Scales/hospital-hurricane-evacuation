@@ -1,0 +1,32 @@
+# Public repository: only code and data are tracked. Everything else stays local.
+/*
+!/.gitignore
+!/README.md
+!/src/
+!/replication/
+!/data/
+/data/*
+!/data/registry/
+!/data/interim/
+/data/interim/*_log.txt
+!/Final/
+/Final/*
+!/Final/hospital_storm_dyads.csv
+!/Final/evacuation_registry.csv
+!/Final/fsip_mechanisms.csv
+!/Final/fsip_dates_adjudicated.csv
+!/Final/fsip_intervals.csv
+!/Final/sipok_observation_windows.csv
+!/Final/decision_outcome_table.csv
+!/Final/hospital_decisions_and_outcomes.csv
+!/Final/registry_aggregate_benchmarks.csv
+!/Final/registry_link_overrides.csv
+!/Final/source_verification_2026-09-09.csv
+!/Final/source_verification_sources_2026-09-09.csv
+__pycache__/
+.DS_Store
+# Review-round notes about earlier releases; kept local
+/replication/README.md
+/replication/FINDINGS.md
+/replication/CHATGPT_PROMPT.md
+/replication/CHANGELOG.md

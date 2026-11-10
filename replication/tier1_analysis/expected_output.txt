@@ -1,0 +1,93 @@
+
+== COHORT / TABLE 1
+  pairs                                                      got 80,189                     manuscript 80,189
+  storms                                                     got 193                        manuscript 193
+  hospitals                                                  got 3,241                      manuscript 3,241
+  2004-2025 pairs                                            got 47,772                     manuscript 47,772
+  inside 34-kt field (2004-2025)                             got 17,811 (37%)               manuscript 17,811 (37%)
+  labeled pairs / storms / hospitals                         got 214 / 30 / 156             manuscript 214 / 30 / 156
+  median pairs per hospital                                  got 22                         manuscript 22
+  beds median (IQR) cohort | labeled                         got 149 (60–311) | 250 (150–448) manuscript 149 (60–311) | 250 (150–448)
+  elevation ft cohort | labeled                              got 191.9 (43.3–521.7) | 14.5 (7.5–28.0) manuscript 191.9 (43.3–521.7) | 14.5 (7.5–28.0)
+  intensity kt cohort | labeled                              got 42 (35–60) | 95 (70–106)   manuscript 42 (35–60) | 95 (70–106)
+  closest approach nmi cohort | labeled                      got 145 (79–216) | 28 (12–57)  manuscript 145 (79–216) | 28 (12–57)
+  rainfall mm cohort | labeled                               got 50 (19–91) | 201 (139–304) manuscript 50 (19–91) | 201 (139–304)
+  plant age y cohort | labeled                               got 10.4 (6.7–14.4) | 10.2 (6.8–13.4) manuscript 10.4 (6.7–14.4) | 10.2 (6.8–13.4)
+  Cat-3 surge zone cohort | labeled                          got 5,239 (7%) | 88 (41%)      manuscript 5,239 (7%) | 88 (41%)
+  levee-protected cohort | labeled                           got 895 (1%) | 18 (8%)         manuscript 895 (1%) | 18 (8%)
+  critical access cohort | labeled                           got 5,955 (7%) | 9 (4%)        manuscript 5,955 (7%) | 9 (4%)
+  for-profit cohort | labeled                                got 14,496 (18%) | 61 (29%)    manuscript 14,496 (18%) | 61 (29%)
+  SFHA of pairs with known zone: cohort | labeled            got 4,563 of 68,782 (7%) | 53 of 198 (27%) manuscript 4,563 of 68,782 (7%) | 53 of 198 (27%)
+
+== TABLE 2 (documented vs rest; wind field on 2004-2025 only)
+  inside 34-kt: documented vs rest                           got 100% (n=201) vs 37% (n=47,571); 2.7x manuscript 100% (n=201) vs 37% (n=47,571); 2.7x
+  median intensity                                           got 95.0 vs 41.0               manuscript 95.0 vs 41.0
+  median closest approach                                    got 27.8 vs 145.3              manuscript 27.8 vs 145.3
+  median elevation                                           got 14.5 vs 192.6              manuscript 14.5 vs 192.6
+  median beds                                                got 250.0 vs 149.0             manuscript 250.0 vs 149.0
+  median rainfall                                            got 200.6 vs 49.4              manuscript 200.6 vs 49.4
+  allowance 0 nmi ratio                                      got 1.4x (n=25,727)            manuscript 1.4x (n=25,727)
+  allowance 50 nmi ratio                                     got 2.0x (n=35,303)            manuscript 2.0x (n=35,303)
+  allowance 100 nmi ratio                                    got 2.7x (n=47,772)            manuscript 2.7x (n=47,772)
+
+== REGISTRY
+  events                                                     got 261                        manuscript 261
+  actions                                                    got {'POST_FSIP': 60, 'POST_REEVAC': 1, 'PRE_FULL': 88, 'PRE_PARTIAL': 13, 'SIP_OK': 92, 'UNCLEAR': 7} manuscript {'POST_FSIP': 60, 'POST_REEVAC': 1, 'PRE_FULL': 88, 'PRE_PARTIAL': 13, 'SIP_OK': 92, 'UNCLEAR': 7}
+  linked to a CCN                                            got 256                        manuscript 256
+  match tiers                                                got {'ADJUDICATED': 68, 'AUTO': 188, 'NO_CCN': 1, 'UNMATCHED': 2, 'UNSURE': 2} manuscript {'ADJUDICATED': 68, 'AUTO': 188, 'NO_CCN': 1, 'UNMATCHED': 2, 'UNSURE': 2}
+  FSIP events by storm (top)                                 got {'Katrina': 15, 'Ian': 6, 'Harvey': 5, 'Sandy': 4, 'Helene': 4, 'Ida': 4} manuscript {'Katrina': 15, 'Ian': 6, 'Harvey': 5, 'Sandy': 4, 'Helene': 4, 'Ida': 4}
+
+== SHELTERING / TABLE 3 (analytic period 2004-2025)
+  all-year sheltering pairs / FSIP                           got 125 / 45                   manuscript 125 / 45
+  2004-2025 sheltering pairs / hospitals                     got 114 / 97                   manuscript 114 / 97
+  2004-2025 FSIP pairs (rate) / hospitals                    got 41 (36%) / 41              manuscript 41 (36%) / 41
+  1990-2003 sheltering pairs / FSIP (described only)         got 11 / 4                     manuscript 11 / 4
+  FSIP pairs by storm, all years (top)                       got {'KATRINA': 11, 'HARVEY': 5, 'IDA': 4, 'IAN': 4, 'SANDY': 4} manuscript {'KATRINA': 11, 'HARVEY': 5, 'IDA': 4, 'IAN': 4, 'SANDY': 4}
+  levee-protected sheltering: n, FSIP, from Katrina          got 18, 12, 13                 manuscript 18, 12, 13
+  surge zone: exposed vs not (non-leveed)                    got 35% (14/40) vs 27% (15/56) manuscript 35% (14/40) vs 27% (15/56)
+  elevation <=15 ft: yes vs no                               got 45% (25/55) vs 27% (16/59) manuscript 45% (25/55) vs 27% (16/59)
+  SFHA (known zone): yes vs no; unknown                      got 30% (7/23) vs 38% (31/81); 10 unknown manuscript 30% (7/23) vs 38% (31/81); 10 unknown
+  levee-protected FSIP rate                                  got 67% (12/18)                manuscript 67% (12/18)
+  median elevation inside vs outside surge zone              got 9.2 vs 36.2                manuscript 9.2 vs 36.2
+  fixed scaling divisors (SD in primary sample) vm/lb/lr/age got 26.8/0.930/0.867/8.73      manuscript 26.8/0.930/0.867/8.73
+
+== TABLE 4 (2004-2025; surge | size | intensity)
+  primary                                                    got n=96 ev=29 surge=1.50 (0.57–3.93) size=0.76 (0.48–1.21) vmax=1.33 (0.82–2.16) manuscript n=96 ev=29 surge=1.50 (0.57–3.93) size=0.76 (0.48–1.21) vmax=1.33 (0.82–2.16)
+  primary P values surge/size/vmax; pseudo-R2                got 0.41/0.242/0.25; 0.037     manuscript 0.41/0.242/0.25; 0.037
+  SD of log beds -> fold change                              got 0.93 -> 2.5-fold           manuscript 0.93 -> 2.5-fold
+  cluster by hospital                                        got n=96 ev=29 surge=1.50 (0.58–3.90) size=0.76 (0.48–1.21) manuscript n=96 ev=29 surge=1.50 (0.58–3.90) size=0.76 (0.48–1.21)
+  cluster by storm                                           got n=96 ev=29 surge=1.50 (0.47–4.80) size=0.76 (0.50–1.14) manuscript n=96 ev=29 surge=1.50 (0.47–4.80) size=0.76 (0.50–1.14)
+  excluding Katrina                                          got n=90 ev=28 surge=1.41 (0.52–3.84) size=0.75 (0.47–1.21) manuscript n=90 ev=28 surge=1.41 (0.52–3.84) size=0.75 (0.47–1.21)
+  HIGH/MEDIUM confidence only                                got n=89 ev=29 surge=1.24 (0.47–3.28) size=0.65 (0.39–1.08) manuscript n=89 ev=29 surge=1.24 (0.47–3.28) size=0.65 (0.39–1.08)
+  ownership-adjusted                                         got surge=1.48 (0.56–3.92) size=0.80 (0.50–1.30) for-profit=2.04 (0.66–6.29) manuscript surge=1.48 (0.56–3.92) size=0.80 (0.50–1.30) for-profit=2.04 (0.66–6.29)
+  Firth penalized likelihood                                 got n=96 ev=29 surge=1.48 (0.57–3.85) size=0.77 (0.48–1.22) vmax=1.31 (0.81–2.11) manuscript n=96 ev=29 surge=1.48 (0.57–3.85) size=0.77 (0.48–1.22) vmax=1.31 (0.81–2.11)
+  all years 1990-2025 added                                  got n=107 ev=33 surge=2.01 (0.81–4.97) size=0.67 (0.44–1.01) vmax=1.35 (0.87–2.10) manuscript n=107 ev=33 surge=2.01 (0.81–4.97) size=0.67 (0.44–1.01) vmax=1.35 (0.87–2.10)
+  levee indicator, all 2004-2025 sheltering                  got n=114 ev=41 surge=1.48 (0.57–3.87) size=0.74 (0.48–1.14) levee=4.49 (1.35–14.96) manuscript n=114 ev=41 surge=1.48 (0.57–3.87) size=0.74 (0.48–1.14) levee=4.49 (1.35–14.96)
+  levee indicator, excluding Katrina                         got n=95 ev=30 surge=1.47 (0.54–4.01) size=0.70 (0.44–1.11) levee=1.17 (0.16–8.58) manuscript n=95 ev=30 surge=1.47 (0.54–4.01) size=0.70 (0.44–1.11) levee=1.17 (0.16–8.58)
+  leave-one-storm-out                                        got 23 storms; surge 1.02–2.20; size 0.68–0.84; n 86–95; events 24–29 manuscript 23 storms; surge 1.02–2.20; size 0.68–0.84; n 86–95; events 24–29
+
+== SUPPLEMENTARY S2 (rainfall + building age, 2004-2025)
+  S2                                                         got n=94 ev=29 surge=1.48 (0.51–4.31) rain=1.14 (0.67–1.92) age=0.87 (0.53–1.43) size=0.77 (0.48–1.24) pR2=0.041 manuscript n=94 ev=29 surge=1.48 (0.51–4.31) rain=1.14 (0.67–1.92) age=0.87 (0.53–1.43) size=0.77 (0.48–1.24) pR2=0.041
+  S2 P values rain/age                                       got 0.63/0.58                  manuscript 0.63/0.58
+  S2 excluding plant age <3 y: age OR                        got 0.91                       manuscript 0.91
+  surge + elevation jointly: surge OR                        got 1.20 (0.43–3.33)           manuscript 1.20 (0.43–3.33)
+
+== SUPPLEMENTARY S3 (documented pre-landfall evacuation, 2004-2025, complete case)
+  S3                                                         got n=194 ev=81 cone=1.81 (1.25–2.61) fcstV=1.73 size=0.50 lowElev=1.90 pR2=0.116 manuscript n=194 ev=81 cone=1.81 (1.25–2.61) fcstV=1.73 size=0.50 lowElev=1.90 pR2=0.116
+
+== TABLE 4 additional sensitivities (S8 multi-campus, S9 2004-2018, S10 second-reader flags)
+  S8 excluding multi-campus certifications (CCN with >1 registry row in the storm) got n=90 ev=24 surge=2.28 (0.79–6.58) size=0.62 (0.37–1.05) manuscript n=90 ev=24 surge=2.28 (0.79–6.58) size=0.62 (0.37–1.05)
+  S9 2004-2018 only                                          got n=66 ev=18 surge=1.50 (0.46–4.82) size=0.85 (0.47–1.55) manuscript n=66 ev=18 surge=1.50 (0.46–4.82) size=0.85 (0.47–1.55)
+  S10 excluding second-reader-flagged events                 got n=93 ev=26 surge=1.58 (0.57–4.38) size=0.74 (0.46–1.21) manuscript n=93 ev=26 surge=1.58 (0.57–4.38) size=0.74 (0.46–1.21)
+
+== FSIP TIMING (fsip_intervals.csv, adjudicated dates)
+  events / precision                                         got 60 / {'approximate': 17, 'bounded': 12, 'exact': 31} manuscript 60 / {'approximate': 17, 'bounded': 12, 'exact': 31}
+  before landfall                                            got 0                          manuscript 0
+  post-landfall best date on landfall day or next day / days 0-2 / within 4 d got 41 / 56 / 58               manuscript 41 / 56 / 58
+  bounds entirely within days 0-2 / overlapping 0-2          got 41 / 56                    manuscript 41 / 56
+  max best interval among exact/approximate                  got 4                          manuscript 4
+  bounded events whose best date is not the (floored) window midpoint got 0                          manuscript 0
+  bounded events by bounds_type (stated / partly stated / inferred) got 0/6/6                      manuscript 0/6/6
+
+Done. Every 'differs' line above is a discrepancy to investigate.
+PASSED: zero discrepancies
